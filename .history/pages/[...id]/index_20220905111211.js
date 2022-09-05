@@ -31,7 +31,7 @@ export async function getStaticPaths() {
   const hostName =
     process.env.NODE_ENV == "development"
       ? "http://localhost:3000"
-      : `https://islamic-dev-repo.vercel.app`;
+      : `https://islamic-dev-repo-etysawz97-spicierewe.vercel.app`;
   const x = await (await fetch(`${hostName}/api/generate_static_paths`)).json();
   // console.log(x["paths"]);
 
