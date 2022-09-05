@@ -22,16 +22,10 @@ export default function DynamicPage(props) {
 }
 
 export async function getStaticPaths() {
-  // const hostName =
-  //   process.env.NODE_ENV == "development"
-  //     ? "http://localhost:3000"
-  //     : `${process.env.VERCEL_URL}`;
-
-  //
   const hostName =
     process.env.NODE_ENV == "development"
       ? "http://localhost:3000"
-      : `https://islamic-dev-repo-etysawz97-spicierewe.vercel.app`;
+      : `${process.env.VERCEL_URL}`;
   const x = await (await fetch(`${hostName}/api/generate_static_paths`)).json();
   // console.log(x["paths"]);
 
