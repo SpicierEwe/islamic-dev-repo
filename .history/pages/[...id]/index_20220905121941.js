@@ -48,8 +48,10 @@ export async function getStaticProps({ params }) {
 
   // this api watches all routes its will see the 2 query prams
   // if they match with the data in database then that data will be sent back
-  const res = await fetch(`${hostName}/api/${query1}/${query2}`);
-  const responseData = await res.json();
+  const responseData = await (
+    await fetch(`${hostName}/api/${query1}/${query2}`)
+  ).json();
+
   return {
     props: {
       responseData,
