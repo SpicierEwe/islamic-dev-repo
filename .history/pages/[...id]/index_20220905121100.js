@@ -25,7 +25,7 @@ export async function getStaticPaths() {
   const hostName =
     process.env.NODE_ENV != "production"
       ? "http://localhost:3000"
-      : `https://${NEXT_PUBLIC_VERCEL_URL}`;
+      : process.env.NEXT_PUBLIC_VERCEL_ENV;
 
   const res = await fetch(`${hostName}/api/generate_static_paths`);
 
@@ -44,7 +44,7 @@ export async function getStaticProps({ params }) {
   const hostName =
     process.env.NODE_ENV != "production"
       ? "http://localhost:3000"
-      : `https://${NEXT_PUBLIC_VERCEL_URL}`;
+      : process.env.NEXT_PUBLIC_VERCEL_ENV;
 
   // this api watches all routes its will see the 2 query prams
   // if they match with the data in database then that data will be sent back
