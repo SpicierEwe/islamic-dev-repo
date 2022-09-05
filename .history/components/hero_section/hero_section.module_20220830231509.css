@@ -1,0 +1,18 @@
+.bg {
+  min-height: 50vh;
+  width: 100%;
+  background-image: linear-gradient(to top right, #4ed8f7, #26afeb 70%);
+  color: white;
+  position: relative;
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.main_title {
+  font-size: 25rem;
+}

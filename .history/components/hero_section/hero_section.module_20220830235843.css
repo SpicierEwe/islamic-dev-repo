@@ -1,0 +1,27 @@
+.bg {
+  min-height: 50vh;
+  width: 100%;
+
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  background: url("https://nextjs.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fengineers.288a564f.jpg&w=1200&q=75");
+  padding: 0 3rem;
+}
+
+.main_title {
+  font-size: 3.9rem;
+}
+
+.greetings {
+  font-weight: 300;
+}
+
+.sub_heading {
+  padding: 1em 0 0 0;
+  font-size: 1.5rem;
+  color: gray;
+  font-weight: 400;
+}

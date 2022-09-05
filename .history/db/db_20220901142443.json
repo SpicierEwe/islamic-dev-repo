@@ -1,0 +1,34 @@
+[
+  {
+    "Quran": [
+      {
+        "Scripts": {
+          "description": "This is the Scripts",
+          "resources": ["hiihhi"]
+        }
+      },
+      {
+        "Fonts": {
+          "description": "This is the Scripts",
+          "resources": ["hiihhi"]
+        }
+      },
+      {
+        "Reciters": {
+          "description": "This is the Scripts",
+          "resources": ["hiihhi"]
+        }
+      }
+    ]
+  },
+  {
+    "Hadiths": [
+      {
+        "Database": {
+          "description": "This is the Scripts",
+          "resources": ["hiihhi"]
+        }
+      }
+    ]
+  }
+]

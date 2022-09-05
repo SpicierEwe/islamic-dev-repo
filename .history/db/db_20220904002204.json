@@ -1,0 +1,487 @@
+[
+  {
+    "quran": [
+      {
+        "scripts": {
+          "icon_link": "https://www.kindpng.com/picc/m/160-1608792_circle-document-icon-png-transparent-png.png",
+          "description": "Get all types of Quranic Scripts. For Example- Uthmani Script , Indo-pak Script etc.",
+          "resources": [
+            {
+              "uthmani v20": {
+                "download_link": "https://wira.adem.my.id/?source=youtube&title=ItVS4QE3NB&type=zip&download=aHR0cHM6Ly9kb3dubG9hZDE0ODYubWVkaWFmaXJlLmNvbS9pNTk1bG9nOTJ4cmcvZ2h2MG4wZTk5aWJxemxsL1V0aG1hbmkrQXlhaCtieStBeWFoLnppcA%3D%3D",
+                "author": "",
+                "sub_title": "Ayah by Ayah script",
+                "includes": [
+                  "Ayah by Ayah",
+                  "Text Files",
+                  "Original DB",
+                  "Fonts"
+                ],
+                "description": "The Quranic data will be in the form of Ayah by Ayah format."
+              }
+            },
+            {
+              "uthmani v20": {
+                "sub_title": "Word by Word script",
+                "download_link": "https://wira.adem.my.id/?source=youtube&title=e2zYtTuBAF&type=zip&download=aHR0cHM6Ly9kb3dubG9hZDg0My5tZWRpYWZpcmUuY29tL2U3czd6cngzdDZ2Zy9oZnk3YjJ6NnNsbmVlamsvVXRobWFuaStXb3JkK2J5K1dvcmQuemlw",
+                "author": "",
+                "includes": [
+                  "Word by Word",
+                  "Text Files",
+                  "Original DB",
+                  "Fonts"
+                ],
+                "description": "The Quranic data will be in the form of Word by Word format i.e every ayah split into words."
+              }
+            },
+
+            {
+              "Indo-Pak v9.5": {
+                "sub_title": "Madinah script",
+                "download_link": "https://wira.adem.my.id/?source=youtube&title=Hg2JxeSCaB&type=zip&download=aHR0cHM6Ly9kb3dubG9hZDEzMjIubWVkaWFmaXJlLmNvbS9tOHFhZHA5bHltdGcvaTB1a2RldzA5cHV1N2Z2L01hZGluYWgrQXlhaCtieStBeWFoLnppcA%3D%3D",
+                "author": "",
+                "includes": [
+                  "Ayah by Ayah",
+                  "Text Files",
+                  "Original DB",
+                  "Fonts"
+                ],
+                "description": "The Quranic data will be in the form of Ayah by Ayah format."
+              }
+            },
+            {
+              "Indo-Pak v9.5": {
+                "sub_title": "Madinah script",
+                "download_link": "https://wira.adem.my.id/?source=youtube&title=4u1dpRbwiv&type=zip&download=aHR0cHM6Ly9kb3dubG9hZDIyNzQubWVkaWFmaXJlLmNvbS8yOTRuNW9tcGMxamcvMzVsZWVvN2ZhbmN5azNtL01hZGluYWgrV29yZCtieStXb3JkLnppcA%3D%3D",
+                "author": "",
+                "includes": [
+                  "Word by Word",
+                  "Text Files",
+                  "Original DB",
+                  "Fonts"
+                ],
+                "description": "The Quranic data will be in the form of Word by Word format i.e every ayah split into words."
+              }
+            },
+            {
+              "Indo-Pak v9.5": {
+                "sub_title": "Hanafi script",
+                "download_link": "https://wira.adem.my.id/?source=youtube&title=z7fCHOdVPv&type=zip&download=aHR0cHM6Ly9kb3dubG9hZDE2NTAubWVkaWFmaXJlLmNvbS80NGc1amxhZjd5MmcvNnFxZ3NrNWk4aWVra3o2L0hhbmFmaStBeWFoK2J5K0F5YWguemlw",
+                "author": "",
+                "includes": [
+                  "Ayah by Ayah",
+                  "Text Files",
+                  "Original DB",
+                  "Fonts"
+                ],
+                "description": "The Quranic data will be in the form of Ayah by Ayah format."
+              }
+            },
+            {
+              "Indo-Pak v9.5": {
+                "sub_title": "Hanafi script",
+                "download_link": "https://wira.adem.my.id/?source=youtube&title=FEcP1jKRwg&type=zip&download=aHR0cHM6Ly9kb3dubG9hZDkzNy5tZWRpYWZpcmUuY29tL3JzdXd6MGxnanJlZy9uazlmMGIyMXBoYXJrZnEvSGFuYWZpK1dvcmQrYnkrV29yZC56aXA%3D",
+                "author": "",
+                "includes": [
+                  "Word by Word",
+                  "Text Files",
+                  "Original DB",
+                  "Fonts"
+                ],
+                "description": "The Quranic data will be in the form of Word by Word format i.e every ayah split into words."
+              }
+            }
+          ]
+        }
+      },
+      {
+        "fonts": {
+          "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Adobe_Fonts.svg/1200px-Adobe_Fonts.svg.png",
+          "description": "Get all the highly optimized Quranic Fonts initial for development.",
+          "resources": [
+            {
+              "Uthmani Font v20": {
+                "sub_title": "for Uthmani Quranic Script",
+                "download_link": "https://wira.adem.my.id/?source=youtube&title=UvI69XYTL5&type=zip&download=aHR0cHM6Ly9kb3dubG9hZDg1MS5tZWRpYWZpcmUuY29tL3lzbTFoZGc2Nmh1Zy85dmoyZ3g1YTNpeGh6eHUvdXRoYW1uaStmb250K3YyMC56aXA%3D",
+                "author": "",
+                "includes": [".ttf", ".woff", ".woff2"],
+                "description": "Uthmani Font is a very highly optimized Font for Uthmani Quranic Script."
+              }
+            },
+            {
+              "Indo-Pak Font v4.2.1": {
+                "sub_title": "without Waqf - Lazim",
+                "download_link": "https://wira.adem.my.id/?source=youtube&title=JXOyvcdguz&type=zip&download=aHR0cHM6Ly9kb3dubG9hZDE0ODEubWVkaWFmaXJlLmNvbS92Yml1ZjdmeDRxZ2cvNjI1cGtxbzA5ZnN3djNwL0luZG9fcGFrK2ZvbnQrdjQuMi4xLnppcA%3D%3D",
+                "author": "",
+                "includes": [".ttf", ".woff", ".woff2"],
+                "description": "This font is created and optimized for the Indo-Pak Quran script but it doesn't contain Waqf - Lazim."
+              }
+            },
+            {
+              "Indo-Pak Font v4.2.1": {
+                "sub_title": "with Waqf - Lazim",
+                "download_link": "https://wira.adem.my.id/?source=youtube&title=NbNFJMEiil&type=zip&download=aHR0cHM6Ly9kb3dubG9hZDIyNjAubWVkaWFmaXJlLmNvbS91eTc5Mmt4aWFvaGcvd2ozMzhxeWxvMjlqdnVkL0luZG9fcGFrK2ZvbnQrdjQuMi4xLS1XTC56aXA%3D",
+                "author": "",
+                "includes": ["Waqf - Lazim", ".ttf", ".woff", ".woff2"],
+                "description": "This font is created and optimized for the Indo-Pak Quran script and contains Waqf - Lazim."
+              }
+            }
+          ]
+        }
+      },
+      {
+        "reciters": {
+          "icon_link": "https://www.pngfind.com/pngs/m/658-6588781_audio-y-bocinas-ajc-logo-transparent-hd-png.png",
+          "description": "Get majority of the Quran reciters audio and generated links JSON files",
+          "resources": [
+            {
+              "Alafasy": {
+                "sub_title": "Mishary bin Rashid Alafasy",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Sudais": {
+                "sub_title": "Abdul Rahman Al-Sudais",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "AbdulBaset": {
+                "sub_title": "Abdul Basit Muhammad Abdus Samad",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Husary": {
+                "sub_title": "Mahmoud Khalil Al-Hussary",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Shuraym": {
+                "sub_title": "Saud Al-Shuraim",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Jibreel": {
+                "sub_title": "Muhammad Jibreel",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Tunaiji": {
+                "sub_title": "Khalifa Al Tunaiji",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Yasser_Ad-Dussary": {
+                "sub_title": "Yasser Ad-Dussary",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Ibrahim_Al-Dosary": {
+                "sub_title": "Ibrahim Al-Dosary",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Yassin_Al-Jazaery": {
+                "sub_title": "Yassin Al-Jazaery",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Abdullaah_3awwaad_Al-Juhaynee": {
+                "sub_title": "Abdullaah 3awwaad Al-Juhaynee",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Abdullah_Matroud": {
+                "sub_title": "Abdullah Matroud",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Ahmed_Ibn_Ali_Al_Ajamy": {
+                "sub_title": "Ahmed Ibn Ali Al Ajamy",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Ahmed_Neana": {
+                "sub_title": "Ahmed Neana",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Akram_Al_Alaqimy": {
+                "sub_title": "Akram Al Alaqimy",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Ali_Jaber": {
+                "sub_title": "Ali Jaber",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Ali_Hajjaj_AlSuesy": {
+                "sub_title": "Ali Hajjaj AlSuesy",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Ayman_Sowaid": {
+                "sub_title": "Ayman Sowaid",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Fares_Abbad": {
+                "sub_title": "Fares Abbad",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Hudhaify": {
+                "sub_title": "Hudhaify",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Ibrahim_Akhdar": {
+                "sub_title": "Ibrahim Akhdar",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Karim_Mansoori": {
+                "sub_title": "Karim Mansoori",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Khalid_Abdullah_al-Qahtanee": {
+                "sub_title": "Khalid Abdullah al-Qahtanee",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Maher_Al_Muaiqly": {
+                "sub_title": "Maher Al Muaiqly",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Mahmoud_Ali_Al-Banna": {
+                "sub_title": "Mahmoud Ali Al-Banna",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Menshawi": {
+                "sub_title": "Menshawi",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Mohammad_al_Tablaway": {
+                "sub_title": "Mohammad al Tablaway",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Muhammad_AbdulKareem": {
+                "sub_title": "Muhammad AbdulKareem",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Muhammad_Ayyoub": {
+                "sub_title": "Muhammad Ayyoub",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Muhsin_Al_Qasim": {
+                "sub_title": "Muhsin Al Qasim",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Nabil_Rifa3i": {
+                "sub_title": "Nabil Rifa3i",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Nasser_Alqatami": {
+                "sub_title": "Nasser Alqatami",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Parhizgar": {
+                "sub_title": "Parhizgar",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Sahl_Yassin": {
+                "sub_title": "Sahl Yassin",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Salaah_AbdulRahman_Bukhatir": {
+                "sub_title": "Salaah AbdulRahman Bukhatir",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Salah_Al_Budair": {
+                "sub_title": "Salah Al Budair",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            },
+            {
+              "Yaser_Salamah": {
+                "sub_title": "Yaser Salamah",
+                "download_link": "#",
+                "author": "",
+                "includes": ["Full Quran", "JSON Files", "urls"],
+                "description": ""
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+
+  {
+    "hadiths": [
+      {
+        "database": {
+          "icon_link": "https://toppng.com/uploads/preview/database-database-icon-11563207079binxarjjyp.png",
+          "description": "Get full hadith Database file and extract the data in any format you want.",
+          "resources": []
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+.bg {
+  min-height: 50vh;
+  background-color: linear-gradient(to top right, #4ed8f7, #26afeb 70%);
+}

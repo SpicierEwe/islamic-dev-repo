@@ -1,0 +1,23 @@
+.bg {
+  padding: 0 3rem;
+}
+
+.filter_chip {
+  background-color: #7070705c;
+  color: #000;
+  font-size: 1.5rem;
+  padding: 1rem;
+  text-align: center;
+  border-radius: 25em;
+}
+
+.filter_chip_container {
+  width: 100%;
+  display: inline-grid;
+  grid-template-columns: auto auto auto;
+  /* background-color: #2196f3; */
+  padding: 1rem;
+  column-gap: 2.5rem;
+  justify-items: center;
+  align-items: center;
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "Quran": [
+      {
+        "Scripts": {
+          "icon_link": "https://previews.123rf.com/images/sn333g/sn333g1509/sn333g150900065/45709481-sound-wave-icon-or-logo-vector-simple-audio-symbol.jpg",
+          "description": "This is the Scripts",
+          "resources": ["hiihhi"]
+        }
+      },
+      {
+        "Fonts": {
+          "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Adobe_Fonts.svg/1200px-Adobe_Fonts.svg.png",
+          "description": "These are the Fonts",
+          "resources": ["hiihhi"]
+        }
+      },
+      {
+        "Reciters": {
+          "icon_link": "https://img1.pnghut.com/17/5/11/tdXXhBixMu/speaker-icon-music-sound-logo-audio.jpg",
+          "description": "Theses are the reciters",
+          "resources": ["hiihhi"]
+        }
+      }
+    ]
+  },
+  {
+    "Hadiths": [
+      {
+        "Database": {
+          "icon_link": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+          "description": "This is the hadith",
+          "resources": ["hiihhi"]
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+.bg {
+  min-height: 50vh;
+  width: 100%;
+  background-image: linear-gradient(to top right, #4ed8f7, #26afeb 70%);
+  color: white;
+}
+
+.center {
+  position: absolute;
+  top: 50;
+}

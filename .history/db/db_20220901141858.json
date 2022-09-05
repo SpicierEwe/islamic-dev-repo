@@ -1,0 +1,17 @@
+[
+  {
+    "Quran": [
+      {
+        "Scripts": {
+          "Description": "This is the Scripts",
+          "resources": ["hiihhi"]
+        }
+      },
+      { "Fonts": [] },
+      { "Reciters": [] }
+    ]
+  },
+  {
+    "Hadiths": [{ "Database": [] }]
+  }
+]

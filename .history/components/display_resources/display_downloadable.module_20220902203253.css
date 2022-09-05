@@ -1,0 +1,40 @@
+.bg {
+  background-color: #f9fafa;
+  padding: 0 3rem;
+}
+
+.header {
+  text-align: center;
+  padding: 3rem 0;
+}
+.header > h1 {
+  font-size: 2.5rem;
+}
+
+.items_container {
+  padding: 0 3rem;
+  margin: 0 auto;
+  max-width: 120rem;
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-row-gap: 1rem;
+  grid-column-gap: 5rem;
+}
+
+.items_container > li {
+  background-color: pink;
+  font-size: 2rem;
+  display: flex;
+}
+
+.items_container > li > p {
+  font-weight: 500;
+}
+
+/* Media queries */
+/* 766px */
+@media (min-width: 47.8rem) {
+  .items_container {
+    grid-template-columns: repeat(3, 1fr);
+  }
+} ;

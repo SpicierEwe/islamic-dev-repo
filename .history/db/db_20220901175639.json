@@ -1,0 +1,38 @@
+[
+  {
+    "al-Quran": [
+      {
+        "Scripts": {
+          "icon_link": "https://www.kindpng.com/picc/m/160-1608792_circle-document-icon-png-transparent-png.png",
+          "description": "Get all types of Quranic Scripts. For Example- Uthmani Script , Indo-pak Script etc.",
+          "resources": ["hiihhi"]
+        }
+      },
+      {
+        "Fonts": {
+          "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Adobe_Fonts.svg/1200px-Adobe_Fonts.svg.png",
+          "description": "Get all the Quranic Fonts initial for development.",
+          "resources": ["hiihhi"]
+        }
+      },
+      {
+        "Reciters": {
+          "icon_link": "https://www.pngfind.com/pngs/m/658-6588781_audio-y-bocinas-ajc-logo-transparent-hd-png.png",
+          "description": "Get majority of the ",
+          "resources": ["hiihhi"]
+        }
+      }
+    ]
+  },
+  {
+    "Hadiths": [
+      {
+        "Database": {
+          "icon_link": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+          "description": "This is the hadith",
+          "resources": ["hiihhi"]
+        }
+      }
+    ]
+  }
+]

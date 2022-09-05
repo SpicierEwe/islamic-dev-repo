@@ -1,0 +1,12 @@
+.bg {
+  padding: 0 3rem;
+}
+
+.filter_chip {
+  background-color: grey;
+  opacity: 0.3;
+}
+
+.filter_chip_container {
+  display: flex;
+}

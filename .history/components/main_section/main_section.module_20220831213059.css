@@ -1,0 +1,12 @@
+.bg {
+  padding: 0 3rem;
+}
+
+.filter_chip {
+  background-color: aliceblue;
+  font-size: 1rem;
+}
+
+.filter_chip_container {
+  display: flex;
+}

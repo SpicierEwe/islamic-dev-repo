@@ -1,0 +1,45 @@
+.bg {
+  min-height: 50vh;
+  width: 100%;
+
+  /* background-image: linear-gradient(to top right, #4ed8f7, #26afeb 70%); */
+  background-color: pink;
+  color: black;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  border: 3px solid green;
+}
+
+/* .center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+} */
+
+.center {
+  /* background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  border: 3px solid green; */
+}
+
+.main_title {
+  font-size: 3.9rem;
+}
+
+.greetings {
+  font-weight: 300;
+}
+
+.sub_heading {
+  padding: 1em 0 0 0;
+  font-size: 1.5rem;
+  color: gray;
+  font-weight: 400;
+}

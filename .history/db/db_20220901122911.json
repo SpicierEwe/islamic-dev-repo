@@ -1,0 +1,22 @@
+[
+  {
+    "availability": []
+  },
+
+  {
+    "Quran": {
+      "Scripts": {
+        "quranic_script": {},
+        "indo_pak_script": {}
+      },
+      "Fonts": {}
+    }
+  },
+  {
+    "Hadiths": {
+      "quranic_script": {},
+      "indo_pak_script": {},
+      "fonts": {}
+    }
+  }
+]
