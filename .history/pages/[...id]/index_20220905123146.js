@@ -35,8 +35,8 @@ export async function getStaticPaths() {
   return {
     // paths: x["paths"],
 
-    paths: [{ params: { id: ["quran", "scripts"] } }],
-    fallback: true,
+    paths:[{id:{}}]
+    fallback: false,
   };
 }
 
