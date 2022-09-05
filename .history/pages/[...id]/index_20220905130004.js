@@ -29,7 +29,7 @@ export async function getStaticPaths() {
   // console.log(x["paths"]);
 
   return {
-    paths: JSON.parse(JSON.stringify(x["paths"])),
+    paths: x["paths"],
     fallback: false,
   };
 }
