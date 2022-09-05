@@ -33,8 +33,6 @@ export async function getStaticPaths() {
   //     ? "http://localhost:3000"
   //     : `https://islamic-dev-repo.vercel.app`;
   const res = await fetch(`${hostName}/api/generate_static_paths`);
-
-  x = res.json();
   // console.log(x["paths"]);
 
   return {
