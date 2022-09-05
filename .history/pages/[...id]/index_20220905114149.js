@@ -37,9 +37,13 @@ export async function getStaticPaths() {
   const x = await res.json();
   // console.log(x["paths"]);
 
+  // return {
+  //   paths: x["paths"],
+  //   fallback: false,
+  // };
+
   return {
-    paths: x["paths"],
-    fallback: false,
+    paths: { params: { id: ["quran" , "fonts"]] } },
   };
 }
 
