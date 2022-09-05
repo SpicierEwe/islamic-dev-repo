@@ -28,7 +28,7 @@ export async function getStaticPaths() {
   const x = await res.json();
   // console.log(x.paths);
 
-  const paths = await x.paths.map((path) => ({
+  const paths = x.paths.map((path) => ({
     params: { id: path },
   }));
   return {

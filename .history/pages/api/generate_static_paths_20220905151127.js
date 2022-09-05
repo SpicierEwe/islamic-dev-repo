@@ -21,8 +21,7 @@ export default async function handler(req, res) {
 
       // console.log(`${category} ${sub_item}`);
 
-      // paths.push({ params: { id: [category[0], sub_item[0]] } });
-      paths.push([category[0], sub_item[0]]);
+      paths.push({ params: { id: [category[0], sub_item[0]] } });
     });
   });
 
