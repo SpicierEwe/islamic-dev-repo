@@ -37,9 +37,7 @@ export async function getStaticProps() {
   // requesting from next js api
   const res = await fetch(`${process.env.host_name}/api/resources`);
 
-  console.log(
-    `******************************************* ${process.env.VERCEL_ENV}`
-  );
+  console.log("******************************************* ${process.env.VERCEL_ENV"});
 
   const data = await res.json();
 
