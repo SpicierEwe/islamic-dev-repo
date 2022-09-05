@@ -22,11 +22,15 @@ export default function DynamicPage(props) {
 }
 
 export async function getStaticPaths() {
-  // fetching dynamically generated paths
-  const res = await fetch(`${process.env.host_name}/api/generate_static_paths`);
+  const hostName =
+    process.env.NODE_ENV != "production"
+      ? "http://localhost:3000"
+      : `https://${process.env.NEXT_PUBLIC_VERCEL_URL}`;
+
+  const res = await fetch(`${hostName}/api/generate_static_paths`);
 
   const x = await res.json();
-  // console.log(x["paths"]);
+  console.log(x["paths"]);
 
   return {
     paths: x["paths"],

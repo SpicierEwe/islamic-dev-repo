@@ -35,7 +35,7 @@ export async function getStaticProps() {
   // checking envirnment
 
   // requesting from next js api
-  const res = await fetch(`${process.env.host_name}/api/resources`);
+  const res = await fetch(`jhj/api/resources`);
 
   const data = await res.json();
 
