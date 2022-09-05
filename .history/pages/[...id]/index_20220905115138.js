@@ -23,9 +23,9 @@ export default function DynamicPage(props) {
 
 export async function getStaticPaths() {
   const hostName =
-    process.env.NODE_ENV != "production"
+    process.env.NODE_ENV == "production"
       ? "http://localhost:3000"
-      : process.env.VERCEL_URL;
+      : `https://${process.env.VERCEL_URL}`;
 
   //
   // const hostName =
@@ -47,9 +47,9 @@ export async function getStaticProps({ params }) {
   const [query1, query2] = params.id;
 
   const hostName =
-    process.env.NODE_ENV != "production"
+    process.env.NODE_ENV == "production"
       ? "http://localhost:3000"
-      : process.env.VERCEL_URL;
+      : `https://${process.env.VERCEL_URL}`;
 
   // this api watches all routes its will see the 2 query prams
   // if they match with the data in database then that data will be sent back

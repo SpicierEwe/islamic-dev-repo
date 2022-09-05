@@ -34,9 +34,9 @@ export default function Home(props) {
 export async function getStaticProps() {
   // checking envirnment
   const hostName =
-    process.env.NODE_ENV != "production"
+    process.env.NODE_ENV == "production"
       ? "http://localhost:3000"
-      : process.env.VERCEL_URL;
+      : `https://${process.env.VERCEL_URL}`;
 
   // const hostName =
   //   process.env.NODE_ENV == "development"
