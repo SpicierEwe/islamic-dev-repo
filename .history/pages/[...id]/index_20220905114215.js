@@ -37,9 +37,14 @@ export async function getStaticPaths() {
   const x = await res.json();
   // console.log(x["paths"]);
 
+  // return {
+  //   paths: x["paths"],
+  //   fallback: false,
+  // };
+
   return {
-    paths: x["paths"],
-    fallback: false,
+    paths: { params: { id: ["quran", "fonts"] } },
+    fallback: true,
   };
 }
 
@@ -47,9 +52,9 @@ export async function getStaticProps({ params }) {
   const [query1, query2] = params.id;
 
   const hostName =
-    process.env.NODE_ENV != "production"
+    process.env.NODE_ENV == "development"
       ? "http://localhost:3000"
-      : `https://${process.env.VERCEL_URL}`;
+      : `${process.env.VERCEL_URL}`;
 
   // this api watches all routes its will see the 2 query prams
   // if they match with the data in database then that data will be sent back
