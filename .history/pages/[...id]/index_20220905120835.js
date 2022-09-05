@@ -25,8 +25,13 @@ export async function getStaticPaths() {
   const hostName =
     process.env.NODE_ENV != "production"
       ? "http://localhost:3000"
-      : process.env.NEXT_PUBLIC_VERCEL_ENV;
+      : process.env.VERCEL_URL;
 
+  //
+  // const hostName =
+  //   process.env.NODE_ENV == "development"
+  //     ? "http://localhost:3000"
+  //     : `https://islamic-dev-repo.vercel.app`;
   const res = await fetch(`${hostName}/api/generate_static_paths`);
 
   const x = await res.json();
@@ -44,7 +49,7 @@ export async function getStaticProps({ params }) {
   const hostName =
     process.env.NODE_ENV != "production"
       ? "http://localhost:3000"
-      : process.env.NEXT_PUBLIC_VERCEL_ENV;
+      : process.env.VERCEL_URL;
 
   // this api watches all routes its will see the 2 query prams
   // if they match with the data in database then that data will be sent back
