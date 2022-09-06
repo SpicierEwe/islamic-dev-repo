@@ -1,0 +1,30 @@
+.bg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.spinner {
+  position: relative;
+  box-shadow: 0 2px 2px gray;
+  /* background-color: pink; */
+  padding: 1.5rem;
+  border-radius: 3rem;
+  border: 3px black dashed;
+
+  /* animation properties */
+  animation: spinnerAnimation 1s infinite;
+}
+
+@keyframes spinnerAnimation {
+  0% {
+    transform: rotate(360deg);
+  }
+}
+
+.logo_image {
+}

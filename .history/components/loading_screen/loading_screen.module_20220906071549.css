@@ -1,0 +1,17 @@
+.bg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.spinner {
+  box-shadow: 0 2px 2px black;
+  /* background-color: pink; */
+  padding: 1.5rem;
+  border-radius: 3rem;
+  border: 5px black dotted;
+}
