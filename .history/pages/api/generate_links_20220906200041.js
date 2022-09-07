@@ -16,7 +16,6 @@ export default async function handler(req, res) {
       generated_urls_array.push({
         global_index: totalVerses,
         surah_number: surahIndex + 1,
-        verse_number: verse_number + 1,
 
         audio_url: `${url_template}${(surahIndex + 1)
           .toString()
