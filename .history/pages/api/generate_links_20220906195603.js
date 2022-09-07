@@ -22,7 +22,7 @@ export default async function handler(req, res) {
           .padStart(3, 0)}_${
           (verse_number + 1).toString().padStart(3, 0) + reciter_name ==
           "Husary"
-            ? ".ogg"
+            ? ".mp4"
             : ".mp3"
         }`,
       });
