@@ -685,12 +685,12 @@
           "description": "Get full hadith Database file and extract the data in any format you want.",
           "resources": [
             {
-              "Hadith Database": {
-                "sub_title": "by Sunnah.com",
+              "Indo-Pak v9.5": {
+                "sub_title": "Madinah script",
                 "download_link": "https://sunnah.com/HadithTable.sql.gz",
                 "author": "",
                 "includes": ["Full Database", "SQL File"],
-                "description": "This is the Hadith Database Sql file from sunnah.com containing 16 books of hadiths. This database contains Arabic hadiths with only English translations."
+                "description": "Indo-Pak Madinah Text is same as the one published by KFGQPC in Madinah."
               }
             }
           ]

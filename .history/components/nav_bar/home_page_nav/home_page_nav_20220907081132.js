@@ -15,8 +15,8 @@ export default function HomePageNav(props) {
               <Link href={"/"}>
                 <Image
                   src={"/images/logo/logo.svg"}
-                  width="25%"
-                  height="25%"
+                  width="35%"
+                  height="35%"
                   alt="logo_img"
                 ></Image>
               </Link>
