@@ -19,8 +19,8 @@ export default async function handler(req, res) {
 
         audio_url: `${url_template}${(surahIndex + 1)
           .toString()
-          .padStart(3, 0)}${(verse_number + 1).toString().padStart(3, 0)}${
-          reciter_name === "Husary" ? ".ogg" : ".mp3"
+          .padStart(3, 0)}_${(verse_number + 1).toString().padStart(3, 0)}${
+          reciter_name == "Husary" ? ".ogg" : ".mp3"
         }`,
       });
     }
