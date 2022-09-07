@@ -22,7 +22,7 @@ export default function Home(props) {
   return (
     <div>
       <Head>
-        <title>Islamic Dev Repo</title>
+        <title>Create Next App</title>
         <meta
           name="description"
           content="Islamic Dev Repo. Find all islamic handy resources at one place"
