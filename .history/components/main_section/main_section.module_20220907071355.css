@@ -1,15 +1,14 @@
 .bg {
   /* background-color: #f9fafa; */
-  background-color: white;
 }
 
 /* section classes */
 
 .section_bg {
   padding: 0 3rem;
-
+  margin: 1rem 0;
   /* background-color: #f8f9fa; */
-  /* background-color: pink; */
+  background-color: pink;
 }
 
 /* this is the main section title */

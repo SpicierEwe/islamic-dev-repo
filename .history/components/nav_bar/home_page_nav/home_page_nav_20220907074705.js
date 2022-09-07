@@ -23,7 +23,7 @@ export default function HomePageNav(props) {
             </div>
             {/* <p>IDV</p> */}
             <ul className={styles.ul_container}>
-              <li>About</li>
+              <li>About us</li>
               <li>Data source</li>
             </ul>
           </div>

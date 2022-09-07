@@ -72,11 +72,9 @@
   padding: 1rem 2rem;
   text-align: center;
   border-radius: 1em;
-  transition: all 0.25s ease-in-out;
 }
 
 .filter_chip:hover {
   background-color: #3061aa;
   color: white;
-  cursor: pointer;
 }

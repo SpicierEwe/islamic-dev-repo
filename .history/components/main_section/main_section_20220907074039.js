@@ -16,14 +16,10 @@ export function MainSection(props) {
 
   return (
     <div className={styles.bg}>
-      <section>
+      <section id={Object.keys(mainData)}>
         {dataCtx.db.map((mainData, index) => {
           return (
-            <div
-              key={index}
-              id={Object.keys(mainData)}
-              className={styles.section_bg}
-            >
+            <div key={index} className={styles.section_bg}>
               <div>
                 <h2 className={styles.section_titles}>
                   {/* TITLE */}

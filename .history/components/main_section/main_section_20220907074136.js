@@ -19,6 +19,8 @@ export function MainSection(props) {
       <section>
         {dataCtx.db.map((mainData, index) => {
           return (
+            // id={Object.keys(mainData)}
+
             <div
               key={index}
               id={Object.keys(mainData)}

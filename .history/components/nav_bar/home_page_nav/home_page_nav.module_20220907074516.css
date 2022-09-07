@@ -67,8 +67,6 @@
 }
 
 .ul_container > li:hover {
-  /* background-color: #3061aa24; */
-  background-color: #3061aa;
-  color: white;
+  background-color: #3061aa24;
   border: 1px solid #3061aa;
 }

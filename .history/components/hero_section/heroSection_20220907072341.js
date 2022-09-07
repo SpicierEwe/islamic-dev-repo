@@ -38,17 +38,15 @@ function HeroSection(prams) {
           {/* FILTER CHIP */}
           {dataCtx.db.map((data, index) => {
             return (
-              <ul
-                key={index}
-                className={styles.filter_chip} // on click scroll to the selected section
-                onClick={() => {
-                  document
-                    .getElementById(`${Object.keys(data)}`)
-                    .scrollIntoView({ behavior: "smooth", block: "center" });
-                }}
-              >
+              <ul key={index} className={styles.filter_chip}>
                 {/* {data["title"]} */}
-                <li>{Object.keys(data)}</li>
+                <li
+                  onClick={document
+                    .getElementById(`${Object.keys(data)}`)
+                    .scrollIntoView()}
+                >
+                  {Object.keys(data)}
+                </li>
               </ul>
             );
           })}
