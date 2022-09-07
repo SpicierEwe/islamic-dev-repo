@@ -1,0 +1,7 @@
+.bg {
+  /* background-color: red; */
+  background-image: url("/images/bg_main.svg");
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+}

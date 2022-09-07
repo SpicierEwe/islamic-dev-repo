@@ -1,0 +1,70 @@
+/* this bg is the background only attacked  both home nav bar and hero section to the hero  */
+.nav_hero_bg {
+  background-image: linear-gradient(
+    174.2deg,
+    rgba(255, 244, 228, 1) 7.1%,
+    rgba(240, 246, 238, 1) 67.4%
+  );
+}
+
+/* this bg is the background only attacked to the hero section  */
+.bg {
+  min-height: 65vh;
+  width: 100%;
+  padding: 0 3rem;
+
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main_title {
+  font-size: 3.9rem;
+}
+
+.greetings {
+  font-weight: 300;
+}
+
+.sub_heading {
+  padding: 0.7em 0 0 0;
+  font-size: 1.7rem;
+  color: #555;
+  font-weight: 400;
+}
+
+/* filter chip */
+.filter_chip_container_parent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.filter_chip_container {
+  /* background-color: black; */
+  background-color: white;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  padding: 1.3rem 3rem;
+  column-gap: 2.5rem;
+  row-gap: 2.5rem;
+  justify-items: center;
+  align-items: center;
+  flex-wrap: wrap;
+  border-radius: 2.1em 2.1em 0 0;
+  clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 100% 100%, 0 100%, 0% 50%);
+}
+
+.filter_chip {
+  background-color: #f0f3f3;
+  /* background-color: #3061aa; */
+
+  color: black;
+  font-weight: 500;
+  font-size: 1.5rem;
+  padding: 1rem 2rem;
+  text-align: center;
+  border-radius: 1em;
+}
