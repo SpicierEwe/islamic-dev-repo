@@ -51,7 +51,7 @@
             },
             {
               "Indo-Pak v9.5": {
-                "sub_title": "Madinah script WBW",
+                "sub_title": "Madinah script",
                 "download_link": "https://www.mediafire.com/file/35leeo7fancyk3m/Madinah_Script_Word_by_Word_v9.5.zip/file",
                 "author": "",
                 "includes": [
@@ -65,7 +65,7 @@
             },
             {
               "Indo-Pak v9.5": {
-                "sub_title": "Hanafi script ABA",
+                "sub_title": "Hanafi script",
                 "download_link": "https://www.mediafire.com/file/6qqgsk5i8iekkz6/Hanafi_Script_Ayah_by_Ayah_v9.5.zip/file",
                 "author": "",
                 "includes": [
@@ -79,7 +79,7 @@
             },
             {
               "Indo-Pak v9.5": {
-                "sub_title": "Hanafi script WBW",
+                "sub_title": "Hanafi script",
                 "download_link": "https://www.mediafire.com/file/nk9f0b21pharkfq/Hanafi_Script_Word_by_Word_v9.5.zip/file",
                 "author": "",
                 "includes": [
@@ -132,7 +132,7 @@
                 "download_link": "https://www.mediafire.com/file/qhbonio0eryrk0b/Surah_Names_Font_Optimzed.zip/file",
                 "author": "",
                 "includes": [".ttf", ".woff", ".woff2"],
-                "description": "This is an optimized font responsible for rendering Surah Names in calligraphic style."
+                "description": "This font is created and optimized for the Indo-Pak Quran script and contains Waqf - Lazim."
               }
             }
           ]
