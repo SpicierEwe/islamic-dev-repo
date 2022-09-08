@@ -114,7 +114,7 @@
                 "download_link": "https://www.mediafire.com/file/625pkqo09fswv3p/Indo_pak_font_v4.2.1.zip/file",
                 "author": "",
                 "includes": [".ttf", ".woff", ".woff2"],
-                "description": "This font is created and optimized for the Indo-Pak Quran script but it doesn't contain Waqf - Lazim margin indicator."
+                "description": "This font is created and optimized for the Indo-Pak Quran script but it doesn't contain Waqf - Lazim."
               }
             },
             {
@@ -123,7 +123,7 @@
                 "download_link": "https://www.mediafire.com/file/wj338qylo29jvud/Indo_pak_font_v4.2.1--WL.zip/file",
                 "author": "",
                 "includes": ["Waqf - Lazim", ".ttf", ".woff", ".woff2"],
-                "description": "This font is created and optimized for the Indo-Pak Quran script and contains Waqf - Lazim margin indicator."
+                "description": "This font is created and optimized for the Indo-Pak Quran script and contains Waqf - Lazim."
               }
             },
             {
