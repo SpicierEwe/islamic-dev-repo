@@ -60,15 +60,14 @@
 
 /* includes classes */
 .includes_heading {
-  /* padding: 3rem 0 0 0; */
-  padding: 3.5rem 0 1.3rem 0;
+  padding: 3rem 0 0 0;
   color: #000;
   font-weight: 500;
   font-size: 1.3rem;
 }
 
 .included_chip_container {
-  padding: 0 0 0.5rem 0;
+  padding: 1rem 0 0.5rem 0;
   display: flex;
   flex-wrap: wrap;
   row-gap: 1rem;
@@ -83,12 +82,10 @@
   font-weight: 500;
   padding: 0.7rem 1rem;
 }
-
 /* author styles */
-
 .author_chip {
-  background-color: #4a7cc826;
-  color: #333;
+  background-color: #3061aa;
+  color: white;
   border-radius: 0.5em;
   font-size: 1.3rem;
   font-weight: 500;

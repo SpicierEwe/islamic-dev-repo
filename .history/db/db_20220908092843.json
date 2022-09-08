@@ -121,7 +121,7 @@
               "Indo-Pak Font v4.2.1": {
                 "sub_title": "with Waqf - Lazim margin indicator",
                 "download_link": "https://www.mediafire.com/file/wj338qylo29jvud/Indo_pak_font_v4.2.1--WL.zip/file",
-                "author": ["Al Qalam", "Gandhara", "KFQPC", "Ayman Siddiqui"],
+                "author": "",
                 "includes": ["Waqf - Lazim", ".ttf", ".woff", ".woff2"],
                 "description": "This font is created and optimized for the Indo-Pak Quran script and contains Waqf - Lazim margin indicator."
               }
@@ -130,7 +130,7 @@
               "Surah Names Font": {
                 "sub_title": "calligraphic Surah Names",
                 "download_link": "https://www.mediafire.com/file/qhbonio0eryrk0b/Surah_Names_Font_Optimzed.zip/file",
-                "author": [],
+                "author": "",
                 "includes": [".ttf", ".woff", ".woff2"],
                 "description": "This is an optimized font responsible for rendering Surah Names in calligraphic style."
               }

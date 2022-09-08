@@ -149,29 +149,23 @@ export default function DisplayDownloadable(props) {
                         </div>
 
                         {/* authors */}
-                        {data[Object.keys(data)].author.length != 0 &&
-                        data[Object.keys(data)].author != undefined ? (
-                          <div>
-                            <p className={styles.includes_heading}>AUTHORS</p>
-                            <ul className={styles.included_chip_container}>
-                              {data[Object.keys(data)].author.map(
-                                (included, index) => {
-                                  return (
-                                    <li
-                                      key={index}
-                                      className={styles.author_chip}
-                                    >
-                                      {included}
-                                    </li>
-                                  );
-                                }
-                              )}
-                            </ul>
-                            {/* <hr></hr> */}
-                          </div>
-                        ) : (
-                          ""
-                        )}
+                        <div>
+                          <p className={styles.includes_heading}>AUTHORS</p>
+                          <ul className={styles.author_chip_container}>
+                            {data[Object.keys(data)].author.map(
+                              (included, index) => {
+                                return (
+                                  <li
+                                    key={index}
+                                    className={styles.author_chip}
+                                  >
+                                    {included}
+                                  </li>
+                                );
+                              }
+                            )}
+                          </ul>
+                        </div>
 
                         {/* description */}
                         <p className={styles.item_description}>
