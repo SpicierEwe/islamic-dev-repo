@@ -112,7 +112,7 @@
               "Indo-Pak Font v4.2.1": {
                 "sub_title": "without Waqf - Lazim margin indicator",
                 "download_link": "https://www.mediafire.com/file/625pkqo09fswv3p/Indo_pak_font_v4.2.1.zip/file",
-                "author": ["Al Qalam", "Gandhara", "KFGQPC", "Ayman Siddiqui"],
+                "author": ["Al Qalam", "Gandhara", "KFQPC", "Ayman Siddiqui"],
                 "includes": [".ttf", ".woff", ".woff2"],
                 "description": "This font is created and optimized for the Indo-Pak Quran script but it doesn't contain Waqf - Lazim margin indicator."
               }
@@ -121,7 +121,7 @@
               "Indo-Pak Font v4.2.1": {
                 "sub_title": "with Waqf - Lazim margin indicator",
                 "download_link": "https://www.mediafire.com/file/wj338qylo29jvud/Indo_pak_font_v4.2.1--WL.zip/file",
-                "author": ["Al Qalam", "Gandhara", "KFGQPC", "Ayman Siddiqui"],
+                "author": ["Al Qalam", "Gandhara", "KFQPC", "Ayman Siddiqui"],
                 "includes": ["Waqf - Lazim", ".ttf", ".woff", ".woff2"],
                 "description": "This font is created and optimized for the Indo-Pak Quran script and contains Waqf - Lazim margin indicator."
               }
@@ -130,7 +130,7 @@
               "Surah Names Font": {
                 "sub_title": "calligraphic Surah Names",
                 "download_link": "https://www.mediafire.com/file/qhbonio0eryrk0b/Surah_Names_Font_Optimzed.zip/file",
-                "author": ["KFGQPC"],
+                "author": [],
                 "includes": [".ttf", ".woff", ".woff2"],
                 "description": "This is an optimized font responsible for rendering Surah Names in calligraphic style."
               }
@@ -365,6 +365,14 @@
                   "Mahmoud_Ali_Al-Banna": {
                     "sub_title": "reciter",
                     "generatable_link_template": "https://everyayah.com/data/mahmoud_ali_al_banna_32kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Menshawi": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "None",
                     "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
                     "description": ""
                   }

@@ -370,6 +370,14 @@
                   }
                 },
                 {
+                  "Menshawi": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "None",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
                   "Mohammad_al_Tablaway": {
                     "sub_title": "reciter",
                     "generatable_link_template": "https://everyayah.com/data/Mohammad_al_Tablaway_128kbps/",
