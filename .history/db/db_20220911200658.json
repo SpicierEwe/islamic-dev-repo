@@ -197,7 +197,7 @@
           "resources": [
             {
               "Albanian": {
-                "icon_link": "/images/flags/Albania.jpg",
+                "icon_link": "https://cdn.britannica.com/00/6200-004-42B7690E/Flag-Albania.jpg",
                 "sub_title": "Efendi Nahi",
                 "download_link": "https://tanzil.net/trans/sq.nahi",
 
@@ -208,7 +208,7 @@
             },
             {
               "Albanian": {
-                "icon_link": "/images/flags/Albania.jpg",
+                "icon_link": "https://cdn.britannica.com/00/6200-004-42B7690E/Flag-Albania.jpg",
                 "sub_title": "Feti Mehdiu",
                 "download_link": "https://tanzil.net/trans/sq.mehdiu",
 
@@ -219,7 +219,7 @@
             },
             {
               "Albanian": {
-                "icon_link": "/images/flags/Albania.jpg",
+                "icon_link": "https://cdn.britannica.com/00/6200-004-42B7690E/Flag-Albania.jpg",
                 "sub_title": "Sherif Ahmeti",
                 "download_link": "https://tanzil.net/trans/sq.ahmeti",
 
@@ -230,7 +230,7 @@
             },
             {
               "Amazigh": {
-                "icon_link": "/images/flags/Amazigh.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Berber_flag.svg/1200px-Berber_flag.svg.png",
                 "sub_title": "At Mensur",
                 "download_link": "https://tanzil.net/trans/ber.mensur",
 
@@ -241,7 +241,7 @@
             },
             {
               "Arabic": {
-                "icon_link": "/images/flags/Saudi_Arabia.svg",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
                 "sub_title": "تفسير الجلالين",
                 "download_link": "https://tanzil.net/trans/ar.jalalayn",
 
@@ -254,7 +254,7 @@
             },
             {
               "Arabic": {
-                "icon_link": "/images/flags/Saudi_Arabia.svg",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
                 "sub_title": "تفسير المیسر",
                 "download_link": "https://tanzil.net/trans/ar.muyassar",
 
@@ -265,7 +265,7 @@
             },
             {
               "Amharic": {
-                "icon_link": "/images/flags/Flag-Ethiopia.jpg",
+                "icon_link": "https://cdn.britannica.com/12/12-004-A40EEB6F/Flag-Ethiopia.jpg",
                 "sub_title": "ሳዲቅ & ሳኒ ሐቢብ",
                 "download_link": "https://tanzil.net/trans/am.sadiq",
 
@@ -276,7 +276,7 @@
             },
             {
               "Azerbaijani": {
-                "icon_link": "/images/flags/Flag_of_Azerbaijan.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/2560px-Flag_of_Azerbaijan.svg.png",
                 "sub_title": "Məmmədəliyev & Bünyadov",
                 "download_link": "https://tanzil.net/trans/az.mammadaliyev",
 
@@ -287,7 +287,7 @@
             },
             {
               "Azerbaijani": {
-                "icon_link": "/images/flags/Flag_of_Azerbaijan.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/2560px-Flag_of_Azerbaijan.svg.png",
                 "sub_title": "Musayev",
                 "download_link": "https://tanzil.net/trans/az.musayev",
 
@@ -298,7 +298,7 @@
             },
             {
               "Bengali": {
-                "icon_link": "/images/flags/Flag_of_Bangladesh.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png",
                 "sub_title": "জহুরুল হক",
                 "download_link": "https://tanzil.net/trans/bn.hoque",
 
@@ -309,7 +309,7 @@
             },
             {
               "Bengali": {
-                "icon_link": "/images/flags/Flag_of_Bangladesh.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png",
                 "sub_title": "মুহিউদ্দীন খান",
                 "download_link": "https://tanzil.net/trans/bn.bengali",
 
@@ -320,7 +320,7 @@
             },
             {
               "Bosnian": {
-                "icon_link": "/images/flags/Flag-Bosnia-and-Herzegovina.jpg",
+                "icon_link": "https://cdn.britannica.com/02/6202-004-5E2B285D/Flag-Bosnia-and-Herzegovina.jpg",
                 "sub_title": "Korkut",
                 "download_link": "https://tanzil.net/trans/bs.korkut",
 
@@ -331,7 +331,7 @@
             },
             {
               "Bosnian": {
-                "icon_link": "/images/flags/Flag-Bosnia-and-Herzegovina.jpg",
+                "icon_link": "https://cdn.britannica.com/02/6202-004-5E2B285D/Flag-Bosnia-and-Herzegovina.jpg",
                 "sub_title": "Mlivo",
                 "download_link": "https://tanzil.net/trans/bs.mlivo",
 
@@ -342,7 +342,7 @@
             },
             {
               "Bulgarian": {
-                "icon_link": "/images/flags/Flag_of_Bulgaria.svg",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg",
                 "sub_title": "Теофанов",
                 "download_link": "https://tanzil.net/trans/bg.theophanov",
 
@@ -353,7 +353,7 @@
             },
             {
               "Chinese": {
-                "icon_link": "/images/flags/Flag-China.jpg",
+                "icon_link": "https://cdn.britannica.com/90/7490-004-BAD4AA72/Flag-China.jpg",
                 "sub_title": "Ma Jian",
                 "download_link": "https://tanzil.net/trans/zh.jian",
 
@@ -364,7 +364,7 @@
             },
             {
               "Chinese": {
-                "icon_link": "/images/flags/Flag-China.jpg",
+                "icon_link": "https://cdn.britannica.com/90/7490-004-BAD4AA72/Flag-China.jpg",
                 "sub_title": "Ma Jian (Traditional)",
                 "download_link": "https://tanzil.net/trans/zh.majian",
 
@@ -375,7 +375,7 @@
             },
             {
               "Czech": {
-                "icon_link": "/images/flags/Flag_of_the_Czech_Republic.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/383px-Flag_of_the_Czech_Republic.svg.png",
                 "sub_title": "Hrbek",
                 "download_link": "https://tanzil.net/trans/cs.hrbek",
 
@@ -386,7 +386,7 @@
             },
             {
               "Czech": {
-                "icon_link": "/images/flags/Flag_of_the_Czech_Republic.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/383px-Flag_of_the_Czech_Republic.svg.png",
                 "sub_title": "Nykl",
                 "download_link": "https://tanzil.net/trans/cs.nykl",
 
@@ -397,7 +397,7 @@
             },
             {
               "Divehi": {
-                "icon_link": "/images/flags/Flag-Maldives.jpg",
+                "icon_link": "https://cdn.britannica.com/80/2280-004-E003C02B/Flag-Maldives.jpg",
                 "sub_title": "ދިވެހި",
                 "download_link": "https://tanzil.net/trans/dv.divehi",
 
@@ -408,7 +408,7 @@
             },
             {
               "Dutch": {
-                "icon_link": "/images/flags/Flag_of_the_Netherlands.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1200px-Flag_of_the_Netherlands.svg.png",
                 "sub_title": "Keyzer",
                 "download_link": "https://tanzil.net/trans/nl.keyzer",
 
@@ -419,7 +419,7 @@
             },
             {
               "Dutch": {
-                "icon_link": "/images/flags/Flag_of_the_Netherlands.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1200px-Flag_of_the_Netherlands.svg.png",
                 "sub_title": "Leemhuis",
                 "download_link": "https://tanzil.net/trans/nl.leemhuis",
 
@@ -430,7 +430,7 @@
             },
             {
               "Dutch": {
-                "icon_link": "/images/flags/Flag_of_the_Netherlands.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1200px-Flag_of_the_Netherlands.svg.png",
                 "sub_title": "Siregar",
                 "download_link": "https://tanzil.net/trans/nl.siregar",
 
@@ -441,7 +441,7 @@
             },
             {
               "English": {
-                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "icon_link": "https://cdn.britannica.com/33/4833-004-828A9A84/Flag-United-States-of-America.jpg",
                 "sub_title": "Ahmed Ali",
                 "download_link": "https://tanzil.net/trans/en.ahmedali",
 
@@ -452,7 +452,7 @@
             },
             {
               "English": {
-                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "icon_link": "https://cdn.britannica.com/33/4833-004-828A9A84/Flag-United-States-of-America.jpg",
                 "sub_title": "Ahmed Raza Khan",
                 "download_link": "https://tanzil.net/trans/en.ahmedraza",
 
@@ -463,7 +463,7 @@
             },
             {
               "English": {
-                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "icon_link": "https://cdn.britannica.com/33/4833-004-828A9A84/Flag-United-States-of-America.jpg",
                 "sub_title": "Arberry",
                 "download_link": "https://tanzil.net/trans/en.arberry",
 
@@ -474,7 +474,7 @@
             },
             {
               "English": {
-                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "icon_link": "https://cdn.britannica.com/33/4833-004-828A9A84/Flag-United-States-of-America.jpg",
                 "sub_title": "Daryabadi",
                 "download_link": "https://tanzil.net/trans/en.daryabadi",
 
@@ -485,7 +485,7 @@
             },
             {
               "English": {
-                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "icon_link": "https://cdn.britannica.com/33/4833-004-828A9A84/Flag-United-States-of-America.jpg",
                 "sub_title": "Hilali & Khan",
                 "download_link": "https://tanzil.net/trans/en.hilali",
 
@@ -498,7 +498,7 @@
             },
             {
               "English": {
-                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "icon_link": "https://cdn.britannica.com/33/4833-004-828A9A84/Flag-United-States-of-America.jpg",
                 "sub_title": "Itani",
                 "download_link": "https://tanzil.net/trans/en.itani",
 
@@ -509,7 +509,7 @@
             },
             {
               "English": {
-                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "icon_link": "https://cdn.britannica.com/33/4833-004-828A9A84/Flag-United-States-of-America.jpg",
                 "sub_title": "Maududi",
                 "download_link": "https://tanzil.net/trans/en.maududi",
 
@@ -520,7 +520,7 @@
             },
             {
               "English": {
-                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "icon_link": "https://cdn.britannica.com/33/4833-004-828A9A84/Flag-United-States-of-America.jpg",
                 "sub_title": "Mubarakpuri",
                 "download_link": "https://tanzil.net/trans/en.mubarakpuri",
 
@@ -531,7 +531,7 @@
             },
             {
               "English": {
-                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "icon_link": "https://cdn.britannica.com/33/4833-004-828A9A84/Flag-United-States-of-America.jpg",
                 "sub_title": "Pickthall",
                 "download_link": "https://tanzil.net/trans/en.pickthall",
 
@@ -542,7 +542,7 @@
             },
             {
               "English": {
-                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "icon_link": "https://cdn.britannica.com/33/4833-004-828A9A84/Flag-United-States-of-America.jpg",
                 "sub_title": "Qarai",
                 "download_link": "https://tanzil.net/trans/en.qarai",
 
@@ -553,7 +553,7 @@
             },
             {
               "English": {
-                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "icon_link": "https://cdn.britannica.com/33/4833-004-828A9A84/Flag-United-States-of-America.jpg",
                 "sub_title": "Qaribullah & Darwish",
                 "download_link": "https://tanzil.net/trans/en.qaribullah",
 
@@ -564,7 +564,7 @@
             },
             {
               "English": {
-                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "icon_link": "https://cdn.britannica.com/33/4833-004-828A9A84/Flag-United-States-of-America.jpg",
                 "sub_title": "Saheeh International",
                 "download_link": "https://tanzil.net/trans/en.sahih",
 
@@ -575,7 +575,7 @@
             },
             {
               "English": {
-                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "icon_link": "https://cdn.britannica.com/33/4833-004-828A9A84/Flag-United-States-of-America.jpg",
                 "sub_title": "Sarwar",
                 "download_link": "https://tanzil.net/trans/en.sarwar",
 
@@ -586,7 +586,7 @@
             },
             {
               "English": {
-                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "icon_link": "https://cdn.britannica.com/33/4833-004-828A9A84/Flag-United-States-of-America.jpg",
                 "sub_title": "Shakir",
                 "download_link": "https://tanzil.net/trans/en.shakir",
 
@@ -597,7 +597,7 @@
             },
             {
               "English": {
-                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "icon_link": "https://cdn.britannica.com/33/4833-004-828A9A84/Flag-United-States-of-America.jpg",
                 "sub_title": "Transliteration",
                 "download_link": "https://tanzil.net/trans/en.transliteration",
 
@@ -608,7 +608,7 @@
             },
             {
               "English": {
-                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "icon_link": "https://cdn.britannica.com/33/4833-004-828A9A84/Flag-United-States-of-America.jpg",
                 "sub_title": "Wahiduddin Khan",
                 "download_link": "https://tanzil.net/trans/en.wahiduddin",
 
@@ -619,7 +619,7 @@
             },
             {
               "English": {
-                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "icon_link": "https://cdn.britannica.com/33/4833-004-828A9A84/Flag-United-States-of-America.jpg",
                 "sub_title": "Yusuf Ali",
                 "download_link": "https://tanzil.net/trans/en.yusufali",
 
@@ -630,7 +630,7 @@
             },
             {
               "French": {
-                "icon_link": "/images/flags/Flag_of_France.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png",
                 "sub_title": "Hamidullah",
                 "download_link": "https://tanzil.net/trans/fr.hamidullah",
 
@@ -641,7 +641,7 @@
             },
             {
               "German": {
-                "icon_link": "/images/flags/Flag_of_Germany.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
                 "sub_title": "Abu Rida",
                 "download_link": "https://tanzil.net/trans/de.aburida",
 
@@ -652,7 +652,7 @@
             },
             {
               "German": {
-                "icon_link": "/images/flags/Flag_of_Germany.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
                 "sub_title": "Bubenheim & Elyas",
                 "download_link": "https://tanzil.net/trans/de.bubenheim",
 
@@ -663,7 +663,7 @@
             },
             {
               "German": {
-                "icon_link": "/images/flags/Flag_of_Germany.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
                 "sub_title": "Khoury",
                 "download_link": "https://tanzil.net/trans/de.khoury",
 
@@ -674,7 +674,7 @@
             },
             {
               "German": {
-                "icon_link": "/images/flags/Flag_of_Germany.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
                 "sub_title": "Zaidan",
                 "download_link": "https://tanzil.net/trans/de.zaidan",
 
@@ -685,7 +685,7 @@
             },
             {
               "Hausa": {
-                "icon_link": "/images/flags/Flag_of_the_Hausa_people.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flag_of_the_Hausa_people.svg/1200px-Flag_of_the_Hausa_people.svg.png",
                 "sub_title": "Gumi",
                 "download_link": "https://tanzil.net/trans/ha.gumi",
 
@@ -696,7 +696,7 @@
             },
             {
               "Hindi": {
-                "icon_link": "/images/flags/Flag_of_India.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png",
                 "sub_title": "फ़ारूक़ ख़ान & अहमद",
                 "download_link": "https://tanzil.net/trans/hi.farooq",
 
@@ -707,7 +707,7 @@
             },
             {
               "Hindi": {
-                "icon_link": "/images/flags/Flag_of_India.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png",
                 "sub_title": "फ़ारूक़ ख़ान & नदवी",
                 "download_link": "https://tanzil.net/trans/hi.hindi",
 
@@ -718,7 +718,7 @@
             },
             {
               "Indonesian": {
-                "icon_link": "/images/flags/Flag_of_Indonesia.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/383px-Flag_of_Indonesia.svg.png",
                 "sub_title": "Bahasa Indonesia",
                 "download_link": "https://tanzil.net/trans/id.indonesian",
 
@@ -729,7 +729,7 @@
             },
             {
               "Indonesian": {
-                "icon_link": "/images/flags/Flag_of_Indonesia.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/383px-Flag_of_Indonesia.svg.png",
                 "sub_title": "Quraish Shihab",
                 "download_link": "https://tanzil.net/trans/id.muntakhab",
 
@@ -740,7 +740,7 @@
             },
             {
               "Indonesian": {
-                "icon_link": "/images/flags/Flag_of_Indonesia.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/383px-Flag_of_Indonesia.svg.png",
                 "sub_title": "Tafsir Jalalayn",
                 "download_link": "https://tanzil.net/trans/id.jalalayn",
 
@@ -753,7 +753,7 @@
             },
             {
               "Italian": {
-                "icon_link": "/images/flags/Flag_of_Italy.svg",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
                 "sub_title": "Piccardo",
                 "download_link": "https://tanzil.net/trans/it.piccardo",
 
@@ -764,7 +764,7 @@
             },
             {
               "Japanese": {
-                "icon_link": "/images/flags/Flag_of_Japan.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",
                 "sub_title": "Japanese",
                 "download_link": "https://tanzil.net/trans/ja.japanese",
 
@@ -775,7 +775,7 @@
             },
             {
               "Korean": {
-                "icon_link": "/images/flags/Flag-South-Korea.jpg",
+                "icon_link": "https://cdn.britannica.com/49/1949-004-8818300C/Flag-South-Korea.jpg",
                 "sub_title": "Korean",
                 "download_link": "https://tanzil.net/trans/ko.korean",
 
@@ -786,7 +786,7 @@
             },
             {
               "Kurdish": {
-                "icon_link": "/images/flags/Flag_of_Kurdistan.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/1200px-Flag_of_Kurdistan.svg.png",
                 "sub_title": "ته‌فسیری ئاسان",
                 "download_link": "https://tanzil.net/trans/ku.asan",
 
@@ -797,7 +797,7 @@
             },
             {
               "Malay": {
-                "icon_link": "/images/flags/Flag_of_Malaysia.svg",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg",
                 "sub_title": "Basmeih",
                 "download_link": "https://tanzil.net/trans/ms.basmeih",
 
@@ -808,7 +808,7 @@
             },
             {
               "Malayalam": {
-                "icon_link": "/images/flags/Flag_of_India.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png",
                 "sub_title": "അബ്ദുല്‍ ഹമീദ് & പറപ്പൂര്‍",
                 "download_link": "https://tanzil.net/trans/ml.abdulhameed",
 
@@ -821,7 +821,7 @@
             },
             {
               "Malayalam": {
-                "icon_link": "/images/flags/Flag_of_India.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png",
                 "sub_title": "കാരകുന്ന് & എളയാവൂര്",
                 "download_link": "https://tanzil.net/trans/ml.karakunnu",
 
@@ -832,7 +832,7 @@
             },
             {
               "Norwegian": {
-                "icon_link": "/images/flags/Flag_of_Norway.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/512px-Flag_of_Norway.svg.png",
                 "sub_title": "Einar Berg",
                 "download_link": "https://tanzil.net/trans/no.berg",
 
@@ -843,7 +843,7 @@
             },
             {
               "Pashto": {
-                "icon_link": "/images/flags/Flag_of_Afghanistan.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan_%281928%29.svg/1163px-Flag_of_Afghanistan_%281928%29.svg.png",
                 "sub_title": "عبدالولي",
                 "download_link": "https://tanzil.net/trans/ps.abdulwali",
 
@@ -854,7 +854,7 @@
             },
             {
               "Persian": {
-                "icon_link": "/images/flags/Flag-Iran.jpg",
+                "icon_link": "https://cdn.britannica.com/22/1722-004-EAD033D8/Flag-Iran.jpg",
                 "sub_title": "انصاریان",
                 "download_link": "https://tanzil.net/trans/fa.ansarian",
 
@@ -865,7 +865,7 @@
             },
             {
               "Persian": {
-                "icon_link": "/images/flags/Flag-Iran.jpg",
+                "icon_link": "https://cdn.britannica.com/22/1722-004-EAD033D8/Flag-Iran.jpg",
                 "sub_title": "آیتی",
                 "download_link": "https://tanzil.net/trans/fa.ayati",
 
@@ -876,7 +876,7 @@
             },
             {
               "Persian": {
-                "icon_link": "/images/flags/Flag-Iran.jpg",
+                "icon_link": "https://cdn.britannica.com/22/1722-004-EAD033D8/Flag-Iran.jpg",
                 "sub_title": "بهرام‌پور",
                 "download_link": "https://tanzil.net/trans/fa.bahrampour",
 
@@ -887,7 +887,7 @@
             },
             {
               "Persian": {
-                "icon_link": "/images/flags/Flag-Iran.jpg",
+                "icon_link": "https://cdn.britannica.com/22/1722-004-EAD033D8/Flag-Iran.jpg",
                 "sub_title": "قرائتی",
                 "download_link": "https://tanzil.net/trans/fa.gharaati",
 
@@ -898,7 +898,7 @@
             },
             {
               "Persian": {
-                "icon_link": "/images/flags/Flag-Iran.jpg",
+                "icon_link": "https://cdn.britannica.com/22/1722-004-EAD033D8/Flag-Iran.jpg",
                 "sub_title": "الهی قمشه‌ای",
                 "download_link": "https://tanzil.net/trans/fa.ghomshei",
 
@@ -909,7 +909,7 @@
             },
             {
               "Persian": {
-                "icon_link": "/images/flags/Flag-Iran.jpg",
+                "icon_link": "https://cdn.britannica.com/22/1722-004-EAD033D8/Flag-Iran.jpg",
                 "sub_title": "خرمدل",
                 "download_link": "https://tanzil.net/trans/fa.khorramdel",
 
@@ -920,7 +920,7 @@
             },
             {
               "Persian": {
-                "icon_link": "/images/flags/Flag-Iran.jpg",
+                "icon_link": "https://cdn.britannica.com/22/1722-004-EAD033D8/Flag-Iran.jpg",
                 "sub_title": "خرمشاهی",
                 "download_link": "https://tanzil.net/trans/fa.khorramshahi",
 
@@ -931,7 +931,7 @@
             },
             {
               "Persian": {
-                "icon_link": "/images/flags/Flag-Iran.jpg",
+                "icon_link": "https://cdn.britannica.com/22/1722-004-EAD033D8/Flag-Iran.jpg",
                 "sub_title": "صادقی تهرانی",
                 "download_link": "https://tanzil.net/trans/fa.sadeqi",
 
@@ -942,7 +942,7 @@
             },
             {
               "Persian": {
-                "icon_link": "/images/flags/Flag-Iran.jpg",
+                "icon_link": "https://cdn.britannica.com/22/1722-004-EAD033D8/Flag-Iran.jpg",
                 "sub_title": "صفوی",
                 "download_link": "https://tanzil.net/trans/fa.safavi",
 
@@ -953,7 +953,7 @@
             },
             {
               "Persian": {
-                "icon_link": "/images/flags/Flag-Iran.jpg",
+                "icon_link": "https://cdn.britannica.com/22/1722-004-EAD033D8/Flag-Iran.jpg",
                 "sub_title": "فولادوند",
                 "download_link": "https://tanzil.net/trans/fa.fooladvand",
 
@@ -964,7 +964,7 @@
             },
             {
               "Persian": {
-                "icon_link": "/images/flags/Flag-Iran.jpg",
+                "icon_link": "https://cdn.britannica.com/22/1722-004-EAD033D8/Flag-Iran.jpg",
                 "sub_title": "مجتبوی",
                 "download_link": "https://tanzil.net/trans/fa.mojtabavi",
 
@@ -975,7 +975,7 @@
             },
             {
               "Persian": {
-                "icon_link": "/images/flags/Flag-Iran.jpg",
+                "icon_link": "https://cdn.britannica.com/22/1722-004-EAD033D8/Flag-Iran.jpg",
                 "sub_title": "معزی",
                 "download_link": "https://tanzil.net/trans/fa.moezzi",
 
@@ -986,7 +986,7 @@
             },
             {
               "Persian": {
-                "icon_link": "/images/flags/Flag-Iran.jpg",
+                "icon_link": "https://cdn.britannica.com/22/1722-004-EAD033D8/Flag-Iran.jpg",
                 "sub_title": "مکارم شیرازی",
                 "download_link": "https://tanzil.net/trans/fa.makarem",
 
@@ -997,7 +997,7 @@
             },
             {
               "Polish": {
-                "icon_link": "/images/flags/Flag_of_Poland.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/1200px-Flag_of_Poland.svg.png",
                 "sub_title": "Bielawskiego",
                 "download_link": "https://tanzil.net/trans/pl.bielawskiego",
 
@@ -1008,7 +1008,7 @@
             },
             {
               "Portuguese": {
-                "icon_link": "/images/flags/Flag_of_Portugal.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/383px-Flag_of_Portugal.svg.png",
                 "sub_title": "El-Hayek",
                 "download_link": "https://tanzil.net/trans/pt.elhayek",
 
@@ -1019,7 +1019,7 @@
             },
             {
               "Romanian": {
-                "icon_link": "/images/flags/Flag_of_Romania.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/1200px-Flag_of_Romania.svg.png",
                 "sub_title": "Grigore",
                 "download_link": "https://tanzil.net/trans/ro.grigore",
 
@@ -1030,7 +1030,7 @@
             },
             {
               "Russian": {
-                "icon_link": "/images/flags/Flag_of_Russia.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/800px-Flag_of_Russia.svg.png",
                 "sub_title": "Абу Адель",
                 "download_link": "https://tanzil.net/trans/ru.abuadel",
 
@@ -1041,7 +1041,7 @@
             },
             {
               "Russian": {
-                "icon_link": "/images/flags/Flag_of_Russia.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/800px-Flag_of_Russia.svg.png",
                 "sub_title": "Аль-Мунтахаб",
                 "download_link": "https://tanzil.net/trans/ru.muntahab",
 
@@ -1052,7 +1052,7 @@
             },
             {
               "Russian": {
-                "icon_link": "/images/flags/Flag_of_Russia.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/800px-Flag_of_Russia.svg.png",
                 "sub_title": "Крачковский",
                 "download_link": "https://tanzil.net/trans/ru.krachkovsky",
 
@@ -1063,7 +1063,7 @@
             },
             {
               "Russian": {
-                "icon_link": "/images/flags/Flag_of_Russia.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/800px-Flag_of_Russia.svg.png",
                 "sub_title": "Кулиев",
                 "download_link": "https://tanzil.net/trans/ru.kuliev",
 
@@ -1074,7 +1074,7 @@
             },
             {
               "Russian": {
-                "icon_link": "/images/flags/Flag_of_Russia.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/800px-Flag_of_Russia.svg.png",
                 "sub_title": "Кулиев + ас-Саади",
                 "download_link": "https://tanzil.net/trans/ru.kuliev-alsaadi",
 
@@ -1087,7 +1087,7 @@
             },
             {
               "Russian": {
-                "icon_link": "/images/flags/Flag_of_Russia.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/800px-Flag_of_Russia.svg.png",
                 "sub_title": "Османов",
                 "download_link": "https://tanzil.net/trans/ru.osmanov",
 
@@ -1098,7 +1098,7 @@
             },
             {
               "Russian": {
-                "icon_link": "/images/flags/Flag_of_Russia.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/800px-Flag_of_Russia.svg.png",
                 "sub_title": "Порохова",
                 "download_link": "https://tanzil.net/trans/ru.porokhova",
 
@@ -1109,7 +1109,7 @@
             },
             {
               "Russian": {
-                "icon_link": "/images/flags/Flag_of_Russia.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/800px-Flag_of_Russia.svg.png",
                 "sub_title": "Саблуков",
                 "download_link": "https://tanzil.net/trans/ru.sablukov",
 
@@ -1120,7 +1120,7 @@
             },
             {
               "Sindhi": {
-                "icon_link": "/images/flags/Flag_of_Sindh.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_Sindh.svg/383px-Flag_of_Sindh.svg.png",
                 "sub_title": "امروٽي",
                 "download_link": "https://tanzil.net/trans/sd.amroti",
 
@@ -1131,7 +1131,7 @@
             },
             {
               "Somali": {
-                "icon_link": "/images/flags/Flag_of_Somalia.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/1200px-Flag_of_Somalia.svg.png",
                 "sub_title": "Abduh",
                 "download_link": "https://tanzil.net/trans/so.abduh",
 
@@ -1142,7 +1142,7 @@
             },
             {
               "Spanish": {
-                "icon_link": "/images/flags/Bandera_de_España.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1125px-Bandera_de_Espa%C3%B1a.svg.png",
                 "sub_title": "Bornez",
                 "download_link": "https://tanzil.net/trans/es.bornez",
 
@@ -1153,7 +1153,7 @@
             },
             {
               "Spanish": {
-                "icon_link": "/images/flags/Bandera_de_España.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1125px-Bandera_de_Espa%C3%B1a.svg.png",
                 "sub_title": "Cortes",
                 "download_link": "https://tanzil.net/trans/es.cortes",
 
@@ -1164,7 +1164,7 @@
             },
             {
               "Spanish": {
-                "icon_link": "/images/flags/Bandera_de_España.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1125px-Bandera_de_Espa%C3%B1a.svg.png",
                 "sub_title": "Garcia",
                 "download_link": "https://tanzil.net/trans/es.garcia",
 
@@ -1175,7 +1175,7 @@
             },
             {
               "Swahili": {
-                "icon_link": "/images/flags/Flag-Kenya.jpg",
+                "icon_link": "https://cdn.britannica.com/15/15-004-B5D6BF80/Flag-Kenya.jpg",
                 "sub_title": "Al-Barwani",
                 "download_link": "https://tanzil.net/trans/sw.barwani",
 
@@ -1186,7 +1186,7 @@
             },
             {
               "Swedish": {
-                "icon_link": "/images/flags/Flag_of_Sweden.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/1200px-Flag_of_Sweden.svg.png",
                 "sub_title": "Bernström",
                 "download_link": "https://tanzil.net/trans/sv.bernstrom",
 
@@ -1197,7 +1197,7 @@
             },
             {
               "Tajik": {
-                "icon_link": "/images/flags/Flag_of_Tajikistan.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/383px-Flag_of_Tajikistan.svg.png",
                 "sub_title": "Оятӣ",
                 "download_link": "https://tanzil.net/trans/tg.ayati",
 
@@ -1208,7 +1208,7 @@
             },
             {
               "Tamil": {
-                "icon_link": "/images/flags/Flag_of_India.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png",
                 "sub_title": "ஜான் டிரஸ்ட்",
                 "download_link": "https://tanzil.net/trans/ta.tamil",
 
@@ -1219,7 +1219,7 @@
             },
             {
               "Tatar": {
-                "icon_link": "/images/flags/Flag_of_Tatarstan.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Tatarstan.svg/383px-Flag_of_Tatarstan.svg.png",
                 "sub_title": "Yakub Ibn Nugman",
                 "download_link": "https://tanzil.net/trans/tt.nugman",
 
@@ -1230,7 +1230,7 @@
             },
             {
               "Thai": {
-                "icon_link": "/images/flags/Flag_of_Thailand.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/383px-Flag_of_Thailand.svg.png",
                 "sub_title": "ภาษาไทย",
                 "download_link": "https://tanzil.net/trans/th.thai",
 
@@ -1241,7 +1241,7 @@
             },
             {
               "Turkish": {
-                "icon_link": "/images/flags/Flag_of_Turkey.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png",
                 "sub_title": "Abdulbakî Gölpınarlı",
                 "download_link": "https://tanzil.net/trans/tr.golpinarli",
 
@@ -1252,7 +1252,7 @@
             },
             {
               "Turkish": {
-                "icon_link": "/images/flags/Flag_of_Turkey.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png",
                 "sub_title": "Alİ Bulaç",
                 "download_link": "https://tanzil.net/trans/tr.bulac",
 
@@ -1263,7 +1263,7 @@
             },
             {
               "Turkish": {
-                "icon_link": "/images/flags/Flag_of_Turkey.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png",
                 "sub_title": "Çeviriyazı",
                 "download_link": "https://tanzil.net/trans/tr.transliteration",
 
@@ -1274,7 +1274,7 @@
             },
             {
               "Turkish": {
-                "icon_link": "/images/flags/Flag_of_Turkey.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png",
                 "sub_title": "Diyanet İşleri",
                 "download_link": "https://tanzil.net/trans/tr.diyanet",
 
@@ -1285,7 +1285,7 @@
             },
             {
               "Turkish": {
-                "icon_link": "/images/flags/Flag_of_Turkey.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png",
                 "sub_title": "Diyanet Vakfı",
                 "download_link": "https://tanzil.net/trans/tr.vakfi",
 
@@ -1296,7 +1296,7 @@
             },
             {
               "Turkish": {
-                "icon_link": "/images/flags/Flag_of_Turkey.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png",
                 "sub_title": "Edip Yüksel",
                 "download_link": "https://tanzil.net/trans/tr.yuksel",
 
@@ -1307,7 +1307,7 @@
             },
             {
               "Turkish": {
-                "icon_link": "/images/flags/Flag_of_Turkey.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png",
                 "sub_title": "Elmalılı Hamdi Yazır",
                 "download_link": "https://tanzil.net/trans/tr.yazir",
 
@@ -1318,7 +1318,7 @@
             },
             {
               "Turkish": {
-                "icon_link": "/images/flags/Flag_of_Turkey.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png",
                 "sub_title": "Öztürk",
                 "download_link": "https://tanzil.net/trans/tr.ozturk",
 
@@ -1329,7 +1329,7 @@
             },
             {
               "Turkish": {
-                "icon_link": "/images/flags/Flag_of_Turkey.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png",
                 "sub_title": "Suat Yıldırım",
                 "download_link": "https://tanzil.net/trans/tr.yildirim",
 
@@ -1340,7 +1340,7 @@
             },
             {
               "Turkish": {
-                "icon_link": "/images/flags/Flag_of_Turkey.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png",
                 "sub_title": "Süleyman Ateş",
                 "download_link": "https://tanzil.net/trans/tr.ates",
 
@@ -1351,7 +1351,7 @@
             },
             {
               "Urdu": {
-                "icon_link": "/images/flags/flag-symbolism-Pakistan-design-Islamic.jpg",
+                "icon_link": "https://cdn.britannica.com/46/3346-004-D3BDE016/flag-symbolism-Pakistan-design-Islamic.jpg",
                 "sub_title": "ابوالاعلی مودودی",
                 "download_link": "https://tanzil.net/trans/ur.maududi",
 
@@ -1362,7 +1362,7 @@
             },
             {
               "Urdu": {
-                "icon_link": "/images/flags/flag-symbolism-Pakistan-design-Islamic.jpg",
+                "icon_link": "https://cdn.britannica.com/46/3346-004-D3BDE016/flag-symbolism-Pakistan-design-Islamic.jpg",
                 "sub_title": "احمد رضا خان",
                 "download_link": "https://tanzil.net/trans/ur.kanzuliman",
 
@@ -1373,7 +1373,7 @@
             },
             {
               "Urdu": {
-                "icon_link": "/images/flags/flag-symbolism-Pakistan-design-Islamic.jpg",
+                "icon_link": "https://cdn.britannica.com/46/3346-004-D3BDE016/flag-symbolism-Pakistan-design-Islamic.jpg",
                 "sub_title": "احمد علی",
                 "download_link": "https://tanzil.net/trans/ur.ahmedali",
 
@@ -1384,7 +1384,7 @@
             },
             {
               "Urdu": {
-                "icon_link": "/images/flags/flag-symbolism-Pakistan-design-Islamic.jpg",
+                "icon_link": "https://cdn.britannica.com/46/3346-004-D3BDE016/flag-symbolism-Pakistan-design-Islamic.jpg",
                 "sub_title": "جالندہری",
                 "download_link": "https://tanzil.net/trans/ur.jalandhry",
 
@@ -1395,7 +1395,7 @@
             },
             {
               "Urdu": {
-                "icon_link": "/images/flags/flag-symbolism-Pakistan-design-Islamic.jpg",
+                "icon_link": "https://cdn.britannica.com/46/3346-004-D3BDE016/flag-symbolism-Pakistan-design-Islamic.jpg",
                 "sub_title": "طاہر القادری",
                 "download_link": "https://tanzil.net/trans/ur.qadri",
 
@@ -1406,7 +1406,7 @@
             },
             {
               "Urdu": {
-                "icon_link": "/images/flags/flag-symbolism-Pakistan-design-Islamic.jpg",
+                "icon_link": "https://cdn.britannica.com/46/3346-004-D3BDE016/flag-symbolism-Pakistan-design-Islamic.jpg",
                 "sub_title": "علامہ جوادی",
                 "download_link": "https://tanzil.net/trans/ur.jawadi",
 
@@ -1417,7 +1417,7 @@
             },
             {
               "Urdu": {
-                "icon_link": "/images/flags/flag-symbolism-Pakistan-design-Islamic.jpg",
+                "icon_link": "https://cdn.britannica.com/46/3346-004-D3BDE016/flag-symbolism-Pakistan-design-Islamic.jpg",
                 "sub_title": "محمد جوناگڑھی",
                 "download_link": "https://tanzil.net/trans/ur.junagarhi",
 
@@ -1428,7 +1428,7 @@
             },
             {
               "Urdu": {
-                "icon_link": "/images/flags/flag-symbolism-Pakistan-design-Islamic.jpg",
+                "icon_link": "https://cdn.britannica.com/46/3346-004-D3BDE016/flag-symbolism-Pakistan-design-Islamic.jpg",
                 "sub_title": "محمد حسین نجفی",
                 "download_link": "https://tanzil.net/trans/ur.najafi",
 
@@ -1439,7 +1439,7 @@
             },
             {
               "Uyghur": {
-                "icon_link": "/images/flags/Kokbayraq_flag.svg.png",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kokbayraq_flag.svg/383px-Kokbayraq_flag.svg.png",
                 "sub_title": "محمد صالح",
                 "download_link": "https://tanzil.net/trans/ug.saleh",
 
@@ -1450,7 +1450,7 @@
             },
             {
               "Uzbek": {
-                "icon_link": "/images/flags/Flag_of_Uzbekistan.svg",
+                "icon_link": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg",
                 "sub_title": "Мухаммад Содик",
                 "download_link": "https://tanzil.net/trans/uz.sodik",
 

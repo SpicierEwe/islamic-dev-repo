@@ -18,6 +18,8 @@ const nextConfig = {
       "cdn.icon-icons.com",
       "upload.wikimedia.org",
       "cdn.britannica.com",
+      "asiasociety.org",
+      "blogs.transparent.com",
     ],
   },
 

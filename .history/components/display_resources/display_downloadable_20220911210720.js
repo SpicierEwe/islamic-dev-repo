@@ -70,11 +70,8 @@ export default function DisplayDownloadable(props) {
                             src={
                               // if the page is reciters then show the reciter image else the section icon image
 
-                              data[Object.keys(data)]["icon_link"] ==
-                                undefined ||
-                              data[Object.keys(data)]["icon_link"] == ""
-                                ? mainData[Object.keys(mainData)]["icon_link"]
-                                : data[Object.keys(data)]["icon_link"]
+                              // mainData[Object.keys(mainData)]["icon_link"]
+                              data[Object.keys(data)]["icon_link"]
                               // "/images/flags/Saudi_Arabia.svg"
                             }
                             alt="item Icon"
