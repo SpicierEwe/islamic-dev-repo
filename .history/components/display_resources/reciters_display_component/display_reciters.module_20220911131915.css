@@ -61,8 +61,8 @@
   background-color: #3061aa;
   color: white;
 }
-
-/* nav_item_unselected is a style class with hover there is no stand alone class of it */
+/* .nav_item_unselected {
+} */
 .nav_item_unselected:hover {
   background-color: #eaeaea;
   color: #404040;

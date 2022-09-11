@@ -20,7 +20,7 @@ export default function HomePageNav(props) {
                   height="25%"
                   alt="logo_img"
                 ></Image>
-              </div>
+              </div>{" "}
             </Link>
             {/* <p>IDV</p> */}
             <ul className={styles.ul_container}>
