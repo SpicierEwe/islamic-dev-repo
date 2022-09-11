@@ -94,7 +94,7 @@
             {
               "Nastaleeq v10": {
                 "sub_title": "Ayah by Ayah script",
-                "download_link": "https://www.mediafire.com/file/qsmsuuu0o33zbuq/Nastaleeq_Script_Ayah_by_Ayah_v10.zip/file",
+                "download_link": "https://www.mediafire.com/file/04m5k1n04htbzau/Hanafi_Script_Word_by_Word_v9.6.zip/file",
                 "author": "",
                 "includes": [
                   "Word by Word",
@@ -102,13 +102,13 @@
                   "Original DB",
                   "Fonts"
                 ],
-                "description": "Nastaleeq Script is same as the Indo-Pak script but the font style is like Uthmani"
+                "description": "Indo-Pak Hanafi version is based on Hanafi School of Thought, published in India and Pakistan regions. Main difference is in Ayah numbering of Surah Al Fatiha."
               }
             },
             {
               "Nastaleeq v10": {
                 "sub_title": "Word by Word script",
-                "download_link": "https://www.mediafire.com/file/3y0qgwcmahxs6tm/Nastaleeq_Script_Word_by_Word_v10.zip/file",
+                "download_link": "https://www.mediafire.com/file/04m5k1n04htbzau/Hanafi_Script_Word_by_Word_v9.6.zip/file",
                 "author": "",
                 "includes": [
                   "Word by Word",
@@ -116,7 +116,7 @@
                   "Original DB",
                   "Fonts"
                 ],
-                "description": "Nastaleeq Script is same as the Indo-Pak script but the font style is like Uthmani."
+                "description": "Indo-Pak Hanafi version is based on Hanafi School of Thought, published in India and Pakistan regions. Main difference is in Ayah numbering of Surah Al Fatiha."
               }
             }
           ]
@@ -167,15 +167,6 @@
                   "compressed-spacing"
                 ],
                 "description": "This font is created and optimized for the Indo-Pak Quran script and contains Waqf - Lazim margin indicator."
-              }
-            },
-            {
-              "Nastaleeq Font v10": {
-                "sub_title": "for Nastaleeq Quranic Script",
-                "download_link": "https://www.mediafire.com/file/p8btb8756rfjub7/Nastaleeq_font_v10.zip/file",
-                "author": ["KFGQPC"],
-                "includes": [".ttf", ".woff", ".woff2"],
-                "description": "This font is created and optimized for the Nastaleeq Quran script."
               }
             },
             {

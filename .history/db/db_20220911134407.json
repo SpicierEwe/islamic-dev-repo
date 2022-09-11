@@ -90,34 +90,6 @@
                 ],
                 "description": "Indo-Pak Hanafi version is based on Hanafi School of Thought, published in India and Pakistan regions. Main difference is in Ayah numbering of Surah Al Fatiha."
               }
-            },
-            {
-              "Nastaleeq v10": {
-                "sub_title": "Ayah by Ayah script",
-                "download_link": "https://www.mediafire.com/file/qsmsuuu0o33zbuq/Nastaleeq_Script_Ayah_by_Ayah_v10.zip/file",
-                "author": "",
-                "includes": [
-                  "Word by Word",
-                  "Text Files",
-                  "Original DB",
-                  "Fonts"
-                ],
-                "description": "Nastaleeq Script is same as the Indo-Pak script but the font style is like Uthmani"
-              }
-            },
-            {
-              "Nastaleeq v10": {
-                "sub_title": "Word by Word script",
-                "download_link": "https://www.mediafire.com/file/3y0qgwcmahxs6tm/Nastaleeq_Script_Word_by_Word_v10.zip/file",
-                "author": "",
-                "includes": [
-                  "Word by Word",
-                  "Text Files",
-                  "Original DB",
-                  "Fonts"
-                ],
-                "description": "Nastaleeq Script is same as the Indo-Pak script but the font style is like Uthmani."
-              }
             }
           ]
         }
@@ -157,25 +129,8 @@
                 "sub_title": "with Waqf - Lazim margin indicator",
                 "download_link": "https://www.mediafire.com/file/pzg1hspu1xegx3i/indo-pak_font_v4.2.1-WL.zip/file",
                 "author": ["Al Qalam", "Gandhara", "KFGQPC", "Ayman Siddiqui"],
-                "includes": [
-                  "Waqf - Lazim",
-                  ".ttf",
-                  ".woff",
-                  ".woff2",
-                  "normal-spacing",
-                  "compact-spacing",
-                  "compressed-spacing"
-                ],
+                "includes": ["Waqf - Lazim", ".ttf", ".woff", ".woff2"],
                 "description": "This font is created and optimized for the Indo-Pak Quran script and contains Waqf - Lazim margin indicator."
-              }
-            },
-            {
-              "Nastaleeq Font v10": {
-                "sub_title": "for Nastaleeq Quranic Script",
-                "download_link": "https://www.mediafire.com/file/p8btb8756rfjub7/Nastaleeq_font_v10.zip/file",
-                "author": ["KFGQPC"],
-                "includes": [".ttf", ".woff", ".woff2"],
-                "description": "This font is created and optimized for the Nastaleeq Quran script."
               }
             },
             {

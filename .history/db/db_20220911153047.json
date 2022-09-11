@@ -170,12 +170,20 @@
               }
             },
             {
-              "Nastaleeq Font v10": {
-                "sub_title": "for Nastaleeq Quranic Script",
-                "download_link": "https://www.mediafire.com/file/p8btb8756rfjub7/Nastaleeq_font_v10.zip/file",
+              "Indo-Pak Font v4.2.1": {
+                "sub_title": "with Waqf - Lazim margin indicator",
+                "download_link": "https://www.mediafire.com/file/pzg1hspu1xegx3i/indo-pak_font_v4.2.1-WL.zip/file",
                 "author": ["KFGQPC"],
-                "includes": [".ttf", ".woff", ".woff2"],
-                "description": "This font is created and optimized for the Nastaleeq Quran script."
+                "includes": [
+                  "Waqf - Lazim",
+                  ".ttf",
+                  ".woff",
+                  ".woff2",
+                  "normal-spacing",
+                  "compact-spacing",
+                  "compressed-spacing"
+                ],
+                "description": "This font is created and optimized for the Indo-Pak Quran script and contains Waqf - Lazim margin indicator."
               }
             },
             {
