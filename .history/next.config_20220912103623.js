@@ -20,7 +20,6 @@ const nextConfig = {
       "upload.wikimedia.org",
       "cdn.britannica.com",
       "www.nicepng.com",
-      "www.iconsdb.com",
     ],
   },
 
