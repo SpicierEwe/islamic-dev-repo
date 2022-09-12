@@ -1,0 +1,8 @@
+.drop_down_bg {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 120rem;
+  padding: 0 3rem 1rem 3rem;
+  margin: 0 auto;
+  background-color: aliceblue;
+}

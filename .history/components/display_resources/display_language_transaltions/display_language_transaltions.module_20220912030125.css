@@ -1,0 +1,13 @@
+.drop_down_bg {
+  max-width: 120rem;
+  padding: 0 3rem 1rem 3rem;
+  margin: 0 auto;
+}
+
+.message {
+  display: inline-flex;
+  justify-content: start;
+  background-color: white;
+  font-size: 1.8rem;
+  box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.2);
+}
