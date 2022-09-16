@@ -1,0 +1,2092 @@
+[
+  {
+    "quran": [
+      {
+        "scripts": {
+          "icon_link": "https://www.kindpng.com/picc/m/160-1608792_circle-document-icon-png-transparent-png.png",
+          "description": "Get all types of Quranic Scripts. For Example- Uthmani Script , Indo-pak Script etc.",
+          "resources": [
+            {
+              "uthmani v20": {
+                "download_link": "https://www.mediafire.com/file/0nbl9a3f46jrt4b/Uthmani_Ayah_by_Ayah_v20.zip/file",
+                "author": "",
+                "sub_title": "Ayah by Ayah script",
+                "includes": [
+                  "Ayah by Ayah",
+                  "Text Files",
+                  "Original DB",
+                  "Fonts"
+                ],
+                "description": "Uthmani Script is the most standardized Qura'nic Script in traditional form, written in Uthmani Hafs Qirat style."
+              }
+            },
+            {
+              "uthmani v20": {
+                "sub_title": "Word by Word script",
+                "download_link": "https://www.mediafire.com/file/oun9d6aqudozlew/Uthmani_Word_by_Word_v20.zip/file",
+                "author": "",
+                "includes": [
+                  "Word by Word",
+                  "Text Files",
+                  "Original DB",
+                  "Fonts"
+                ],
+                "description": "Uthmani Script is the most standardized Qura'nic Script in traditional form, written in Uthmani Hafs Qirat style."
+              }
+            },
+
+            {
+              "Indo-Pak v9.6": {
+                "sub_title": "Madinah script ABA",
+                "download_link": "https://www.mediafire.com/file/ntrvckknx60n5gu/Madinah_Script_Ayah_by_Ayah_v9.6.zip/file",
+                "author": "",
+                "includes": [
+                  "Ayah by Ayah",
+                  "Text Files",
+                  "Original DB",
+                  "Fonts"
+                ],
+                "description": "Indo-Pak Madinah Script is same as the one published by KFGQPC in Madinah."
+              }
+            },
+            {
+              "Indo-Pak v9.6": {
+                "sub_title": "Madinah script WBW",
+                "download_link": "https://www.mediafire.com/file/5eqkgpn1up1q4cf/Madinah_Script_Word_by_Word_v9.6.zip/file",
+                "author": "",
+                "includes": [
+                  "Word by Word",
+                  "Text Files",
+                  "Original DB",
+                  "Fonts"
+                ],
+                "description": "Indo-Pak Madinah Text is same as the one published by KFGQPC in Madinah."
+              }
+            },
+            {
+              "Indo-Pak v9.6": {
+                "sub_title": "Hanafi script ABA",
+                "download_link": "https://www.mediafire.com/file/jnqmcunmgf5quhs/Hanafi_Script_Ayah_by_Ayah_v9.6.zip/file",
+                "author": "",
+                "includes": [
+                  "Ayah by Ayah",
+                  "Text Files",
+                  "Original DB",
+                  "Fonts"
+                ],
+                "description": "Indo-Pak Hanafi version is based on Hanafi School of Thought, published in India and Pakistan regions. Main difference is in Ayah numbering of Surah Al Fatiha."
+              }
+            },
+            {
+              "Indo-Pak v9.6": {
+                "sub_title": "Hanafi script WBW",
+                "download_link": "https://www.mediafire.com/file/04m5k1n04htbzau/Hanafi_Script_Word_by_Word_v9.6.zip/file",
+                "author": "",
+                "includes": [
+                  "Word by Word",
+                  "Text Files",
+                  "Original DB",
+                  "Fonts"
+                ],
+                "description": "Indo-Pak Hanafi version is based on Hanafi School of Thought, published in India and Pakistan regions. Main difference is in Ayah numbering of Surah Al Fatiha."
+              }
+            },
+            {
+              "Nastaleeq v10": {
+                "sub_title": "Ayah by Ayah script",
+                "download_link": "https://www.mediafire.com/file/qsmsuuu0o33zbuq/Nastaleeq_Script_Ayah_by_Ayah_v10.zip/file",
+                "author": "",
+                "includes": [
+                  "Word by Word",
+                  "Text Files",
+                  "Original DB",
+                  "Fonts"
+                ],
+                "description": "Nastaleeq Script is same as the Indo-Pak script but the font style is like Uthmani"
+              }
+            },
+            {
+              "Nastaleeq v10": {
+                "sub_title": "Word by Word script",
+                "download_link": "https://www.mediafire.com/file/3y0qgwcmahxs6tm/Nastaleeq_Script_Word_by_Word_v10.zip/file",
+                "author": "",
+                "includes": [
+                  "Word by Word",
+                  "Text Files",
+                  "Original DB",
+                  "Fonts"
+                ],
+                "description": "Nastaleeq Script is same as the Indo-Pak script but the font style is like Uthmani."
+              }
+            }
+          ]
+        }
+      },
+      {
+        "fonts": {
+          "icon_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Adobe_Fonts.svg/1200px-Adobe_Fonts.svg.png",
+          "description": "Get all the highly optimized Quranic Fonts initial for development.",
+          "resources": [
+            {
+              "Uthmani Font v20": {
+                "sub_title": "for Uthmani Quranic Script",
+                "download_link": "https://www.mediafire.com/file/ovxchkl4cphvwgx/uthamni_font_v20.zip/file",
+                "author": ["KFGQPC"],
+                "includes": [".ttf", ".woff", ".woff2"],
+                "description": "Uthmani Font is a very highly optimized Font for Uthmani Quranic Script."
+              }
+            },
+            {
+              "Indo-Pak Font v4.2.1": {
+                "sub_title": "without Waqf - Lazim margin indicator",
+                "download_link": "https://www.mediafire.com/file/nzkaaynhliegjw3/indo-pak_font_v4.2.1.zip/file",
+                "author": ["Al Qalam", "Gandhara", "KFGQPC", "Ayman Siddiqui"],
+                "includes": [
+                  ".ttf",
+                  ".woff",
+                  ".woff2",
+                  "normal-spacing",
+                  "compact-spacing",
+                  "compressed-spacing"
+                ],
+                "description": "This font is created and optimized for the Indo-Pak Quran script but it doesn't contain Waqf - Lazim margin indicator."
+              }
+            },
+            {
+              "Indo-Pak Font v4.2.1": {
+                "sub_title": "with Waqf - Lazim margin indicator",
+                "download_link": "https://www.mediafire.com/file/pzg1hspu1xegx3i/indo-pak_font_v4.2.1-WL.zip/file",
+                "author": ["Al Qalam", "Gandhara", "KFGQPC", "Ayman Siddiqui"],
+                "includes": [
+                  "Waqf - Lazim",
+                  ".ttf",
+                  ".woff",
+                  ".woff2",
+                  "normal-spacing",
+                  "compact-spacing",
+                  "compressed-spacing"
+                ],
+                "description": "This font is created and optimized for the Indo-Pak Quran script and contains Waqf - Lazim margin indicator."
+              }
+            },
+            {
+              "Nastaleeq Font v10": {
+                "sub_title": "for Nastaleeq Quranic Script",
+                "download_link": "https://www.mediafire.com/file/p8btb8756rfjub7/Nastaleeq_font_v10.zip/file",
+                "author": ["KFGQPC"],
+                "includes": [".ttf", ".woff", ".woff2"],
+                "description": "This font is created and optimized for the Nastaleeq Quran script."
+              }
+            },
+            {
+              "Surah Names Font": {
+                "sub_title": "calligraphic Surah Names",
+                "download_link": "https://www.mediafire.com/file/y4lerzrmk66iau1/Surah_Names_Font_Optimzed.zip/file",
+                "author": ["KFGQPC"],
+                "includes": [".ttf", ".woff", ".woff2"],
+                "description": "This is an optimized font responsible for rendering Surah Names in calligraphic style."
+              }
+            }
+          ]
+        }
+      },
+      {
+        "language translations": {
+          "icon_link": "https://www.iconsdb.com/icons/preview/green/document-xxl.png",
+          "description": "Get all the authentic language translations of the al Qur'an.",
+          "resources": [
+            {
+              "Albanian": {
+                "icon_link": "/images/flags/Albania.jpg",
+                "sub_title": "Efendi Nahi",
+                "download_link": "https://tanzil.net/trans/?transID=sq.nahi&type=",
+
+                "author": ["Hasan Efendi Nahi"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Hasan Efendi Nahi in Albanian language."
+              }
+            },
+            {
+              "Albanian": {
+                "icon_link": "/images/flags/Albania.jpg",
+                "sub_title": "Feti Mehdiu",
+                "download_link": "https://tanzil.net/trans/?transID=sq.mehdiu&type=",
+
+                "author": ["Feti Mehdiu"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Feti Mehdiu in Albanian language."
+              }
+            },
+            {
+              "Albanian": {
+                "icon_link": "/images/flags/Albania.jpg",
+                "sub_title": "Sherif Ahmeti",
+                "download_link": "https://tanzil.net/trans/?transID=sq.ahmeti&type=",
+
+                "author": ["Sherif Ahmeti"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Sherif Ahmeti in Albanian language."
+              }
+            },
+            {
+              "Amazigh": {
+                "icon_link": "/images/flags/Amazigh.svg.png",
+                "sub_title": "At Mensur",
+                "download_link": "https://tanzil.net/trans/?transID=ber.mensur&type=",
+
+                "author": ["Ramdane At Mansour *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Ramdane At Mansour * in Amazigh language."
+              }
+            },
+            {
+              "Arabic": {
+                "icon_link": "/images/flags/Saudi_Arabia.svg",
+                "sub_title": "تفسير الجلالين",
+                "download_link": "https://tanzil.net/trans/?transID=ar.jalalayn&type=",
+
+                "author": [
+                  "Jalal ad-Din al-Mahalli",
+                  "Jalal ad-Din as-Suyuti *"
+                ],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti * in Arabic language."
+              }
+            },
+            {
+              "Arabic": {
+                "icon_link": "/images/flags/Saudi_Arabia.svg",
+                "sub_title": "تفسير المیسر",
+                "download_link": "https://tanzil.net/trans/?transID=ar.muyassar&type=",
+
+                "author": ["King Fahad Quran Complex *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by King Fahad Quran Complex * in Arabic language."
+              }
+            },
+            {
+              "Amharic": {
+                "icon_link": "/images/flags/Flag-Ethiopia.jpg",
+                "sub_title": "ሳዲቅ & ሳኒ ሐቢብ",
+                "download_link": "https://tanzil.net/trans/?transID=am.sadiq&type=",
+
+                "author": ["Muhammed Sadiq", "Muhammed Sani Habib *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Muhammed Sadiq and Muhammed Sani Habib * in Amharic language."
+              }
+            },
+            {
+              "Azerbaijani": {
+                "icon_link": "/images/flags/Flag_of_Azerbaijan.svg.png",
+                "sub_title": "Məmmədəliyev & Bünyadov",
+                "download_link": "https://tanzil.net/trans/?transID=az.mammadaliyev&type=",
+
+                "author": ["Vasim Mammadaliyev", "Ziya Bunyadov * †"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Vasim Mammadaliyev and Ziya Bunyadov * † in Azerbaijani language."
+              }
+            },
+            {
+              "Azerbaijani": {
+                "icon_link": "/images/flags/Flag_of_Azerbaijan.svg.png",
+                "sub_title": "Musayev",
+                "download_link": "https://tanzil.net/trans/?transID=az.musayev&type=",
+
+                "author": ["Alikhan Musayev"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Alikhan Musayev in Azerbaijani language."
+              }
+            },
+            {
+              "Bengali": {
+                "icon_link": "/images/flags/Flag_of_Bangladesh.svg.png",
+                "sub_title": "জহুরুল হক",
+                "download_link": "https://tanzil.net/trans/?transID=bn.hoque&type=",
+
+                "author": ["Zohurul Hoque *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Zohurul Hoque * in Bengali language."
+              }
+            },
+            {
+              "Bengali": {
+                "icon_link": "/images/flags/Flag_of_Bangladesh.svg.png",
+                "sub_title": "মুহিউদ্দীন খান",
+                "download_link": "https://tanzil.net/trans/?transID=bn.bengali&type=",
+
+                "author": ["Muhiuddin Khan"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Muhiuddin Khan in Bengali language."
+              }
+            },
+            {
+              "Bosnian": {
+                "icon_link": "/images/flags/Flag-Bosnia-and-Herzegovina.jpg",
+                "sub_title": "Korkut",
+                "download_link": "https://tanzil.net/trans/?transID=bs.korkut&type=",
+
+                "author": ["Besim Korkut *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Besim Korkut * in Bosnian language."
+              }
+            },
+            {
+              "Bosnian": {
+                "icon_link": "/images/flags/Flag-Bosnia-and-Herzegovina.jpg",
+                "sub_title": "Mlivo",
+                "download_link": "https://tanzil.net/trans/?transID=bs.mlivo&type=",
+
+                "author": ["Mustafa Mlivo"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Mustafa Mlivo in Bosnian language."
+              }
+            },
+            {
+              "Bulgarian": {
+                "icon_link": "/images/flags/Flag_of_Bulgaria.svg",
+                "sub_title": "Теофанов",
+                "download_link": "https://tanzil.net/trans/?transID=bg.theophanov&type=",
+
+                "author": ["Tzvetan Theophanov"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Tzvetan Theophanov in Bulgarian language."
+              }
+            },
+            {
+              "Chinese": {
+                "icon_link": "/images/flags/Flag-China.jpg",
+                "sub_title": "Ma Jian",
+                "download_link": "https://tanzil.net/trans/?transID=zh.jian&type=",
+
+                "author": ["Ma Jian"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Ma Jian in Chinese language."
+              }
+            },
+            {
+              "Chinese": {
+                "icon_link": "/images/flags/Flag-China.jpg",
+                "sub_title": "Ma Jian (Traditional)",
+                "download_link": "https://tanzil.net/trans/?transID=zh.majian&type=",
+
+                "author": ["Ma Jian"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Ma Jian in Chinese language."
+              }
+            },
+            {
+              "Czech": {
+                "icon_link": "/images/flags/Flag_of_the_Czech_Republic.svg.png",
+                "sub_title": "Hrbek",
+                "download_link": "https://tanzil.net/trans/?transID=cs.hrbek&type=",
+
+                "author": ["Preklad I. Hrbek"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Preklad I. Hrbek in Czech language."
+              }
+            },
+            {
+              "Czech": {
+                "icon_link": "/images/flags/Flag_of_the_Czech_Republic.svg.png",
+                "sub_title": "Nykl",
+                "download_link": "https://tanzil.net/trans/?transID=cs.nykl&type=",
+
+                "author": ["A. R. Nykl"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by A. R. Nykl in Czech language."
+              }
+            },
+            {
+              "Divehi": {
+                "icon_link": "/images/flags/Flag-Maldives.jpg",
+                "sub_title": "ދިވެހި",
+                "download_link": "https://tanzil.net/trans/?transID=dv.divehi&type=",
+
+                "author": ["Office of the President of Maldives"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Office of the President of Maldives in Divehi language."
+              }
+            },
+            {
+              "Dutch": {
+                "icon_link": "/images/flags/Flag_of_the_Netherlands.svg.png",
+                "sub_title": "Keyzer",
+                "download_link": "https://tanzil.net/trans/?transID=nl.keyzer&type=",
+
+                "author": ["Salomo Keyzer"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Salomo Keyzer in Dutch language."
+              }
+            },
+            {
+              "Dutch": {
+                "icon_link": "/images/flags/Flag_of_the_Netherlands.svg.png",
+                "sub_title": "Leemhuis",
+                "download_link": "https://tanzil.net/trans/?transID=nl.leemhuis&type=",
+
+                "author": ["Fred Leemhuis"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Fred Leemhuis in Dutch language."
+              }
+            },
+            {
+              "Dutch": {
+                "icon_link": "/images/flags/Flag_of_the_Netherlands.svg.png",
+                "sub_title": "Siregar",
+                "download_link": "https://tanzil.net/trans/?transID=nl.siregar&type=",
+
+                "author": ["Sofian S. Siregar"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Sofian S. Siregar in Dutch language."
+              }
+            },
+            {
+              "English": {
+                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "sub_title": "Ahmed Ali",
+                "download_link": "https://tanzil.net/trans/?transID=en.ahmedali&type=",
+
+                "author": ["Ahmed Ali *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Ahmed Ali * in English language."
+              }
+            },
+            {
+              "English": {
+                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "sub_title": "Ahmed Raza Khan",
+                "download_link": "https://tanzil.net/trans/?transID=en.ahmedraza&type=",
+
+                "author": ["Ahmed Raza Khan *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Ahmed Raza Khan * in English language."
+              }
+            },
+            {
+              "English": {
+                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "sub_title": "Arberry",
+                "download_link": "https://tanzil.net/trans/?transID=en.arberry&type=",
+
+                "author": ["A. J. Arberry *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by A. J. Arberry * in English language."
+              }
+            },
+            {
+              "English": {
+                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "sub_title": "Daryabadi",
+                "download_link": "https://tanzil.net/trans/?transID=en.daryabadi&type=",
+
+                "author": ["Abdul Majid Daryabadi *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Abdul Majid Daryabadi * in English language."
+              }
+            },
+            {
+              "English": {
+                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "sub_title": "Hilali & Khan",
+                "download_link": "https://tanzil.net/trans/?transID=en.hilali&type=",
+
+                "author": [
+                  "Muhammad Taqi-ud-Din al-Hilali",
+                  "Muhammad Muhsin Khan *"
+                ],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Muhammad Taqi-ud-Din al-Hilali and Muhammad Muhsin Khan * in English language."
+              }
+            },
+            {
+              "English": {
+                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "sub_title": "Itani",
+                "download_link": "https://tanzil.net/trans/?transID=en.itani&type=",
+
+                "author": ["Talal Itani"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Talal Itani in English language."
+              }
+            },
+            {
+              "English": {
+                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "sub_title": "Maududi",
+                "download_link": "https://tanzil.net/trans/?transID=en.maududi&type=",
+
+                "author": ["Abul Ala Maududi *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Abul Ala Maududi * in English language."
+              }
+            },
+            {
+              "English": {
+                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "sub_title": "Mubarakpuri",
+                "download_link": "https://tanzil.net/trans/?transID=en.mubarakpuri&type=",
+
+                "author": ["Safi-ur-Rahman al-Mubarakpuri *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Safi-ur-Rahman al-Mubarakpuri * in English language."
+              }
+            },
+            {
+              "English": {
+                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "sub_title": "Pickthall",
+                "download_link": "https://tanzil.net/trans/?transID=en.pickthall&type=",
+
+                "author": ["Mohammed Marmaduke William Pickthall *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Mohammed Marmaduke William Pickthall * in English language."
+              }
+            },
+            {
+              "English": {
+                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "sub_title": "Qarai",
+                "download_link": "https://tanzil.net/trans/?transID=en.qarai&type=",
+
+                "author": ["Ali Quli Qarai"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Ali Quli Qarai in English language."
+              }
+            },
+            {
+              "English": {
+                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "sub_title": "Qaribullah & Darwish",
+                "download_link": "https://tanzil.net/trans/?transID=en.qaribullah&type=",
+
+                "author": ["Hasan al-Fatih Qaribullah", "Ahmad Darwish"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Hasan al-Fatih Qaribullah and Ahmad Darwish in English language."
+              }
+            },
+            {
+              "English": {
+                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "sub_title": "Saheeh International",
+                "download_link": "https://tanzil.net/trans/?transID=en.sahih&type=",
+
+                "author": ["Saheeh International *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Saheeh International * in English language."
+              }
+            },
+            {
+              "English": {
+                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "sub_title": "Sarwar",
+                "download_link": "https://tanzil.net/trans/?transID=en.sarwar&type=",
+
+                "author": ["Muhammad Sarwar *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Muhammad Sarwar * in English language."
+              }
+            },
+            {
+              "English": {
+                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "sub_title": "Shakir",
+                "download_link": "https://tanzil.net/trans/?transID=en.shakir&type=",
+
+                "author": ["Mohammad Habib Shakir *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Mohammad Habib Shakir * in English language."
+              }
+            },
+            {
+              "English": {
+                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "sub_title": "Transliteration",
+                "download_link": "https://tanzil.net/trans/?transID=en.transliteration&type=",
+
+                "author": ["English Transliteration"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by English Transliteration in English language."
+              }
+            },
+            {
+              "English": {
+                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "sub_title": "Wahiduddin Khan",
+                "download_link": "https://tanzil.net/trans/?transID=en.wahiduddin&type=",
+
+                "author": ["Wahiduddin Khan *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Wahiduddin Khan * in English language."
+              }
+            },
+            {
+              "English": {
+                "icon_link": "/images/flags/Flag-United-States-of-America.jpg",
+                "sub_title": "Yusuf Ali",
+                "download_link": "https://tanzil.net/trans/?transID=en.yusufali&type=",
+
+                "author": ["Abdullah Yusuf Ali *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Abdullah Yusuf Ali * in English language."
+              }
+            },
+            {
+              "French": {
+                "icon_link": "/images/flags/Flag_of_France.svg.png",
+                "sub_title": "Hamidullah",
+                "download_link": "https://tanzil.net/trans/?transID=fr.hamidullah&type=",
+
+                "author": ["Muhammad Hamidullah *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Muhammad Hamidullah * in French language."
+              }
+            },
+            {
+              "German": {
+                "icon_link": "/images/flags/Flag_of_Germany.svg.png",
+                "sub_title": "Abu Rida",
+                "download_link": "https://tanzil.net/trans/?transID=de.aburida&type=",
+
+                "author": ["Abu Rida Muhammad ibn Ahmad ibn Rassoul"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Abu Rida Muhammad ibn Ahmad ibn Rassoul in German language."
+              }
+            },
+            {
+              "German": {
+                "icon_link": "/images/flags/Flag_of_Germany.svg.png",
+                "sub_title": "Bubenheim & Elyas",
+                "download_link": "https://tanzil.net/trans/?transID=de.bubenheim&type=",
+
+                "author": ["A. S. F. Bubenheim", "N. Elyas *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by A. S. F. Bubenheim and N. Elyas * in German language."
+              }
+            },
+            {
+              "German": {
+                "icon_link": "/images/flags/Flag_of_Germany.svg.png",
+                "sub_title": "Khoury",
+                "download_link": "https://tanzil.net/trans/?transID=de.khoury&type=",
+
+                "author": ["Adel Theodor Khoury *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Adel Theodor Khoury * in German language."
+              }
+            },
+            {
+              "German": {
+                "icon_link": "/images/flags/Flag_of_Germany.svg.png",
+                "sub_title": "Zaidan",
+                "download_link": "https://tanzil.net/trans/?transID=de.zaidan&type=",
+
+                "author": ["Amir Zaidan"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Amir Zaidan in German language."
+              }
+            },
+            {
+              "Hausa": {
+                "icon_link": "/images/flags/Flag_of_the_Hausa_people.svg.png",
+                "sub_title": "Gumi",
+                "download_link": "https://tanzil.net/trans/?transID=ha.gumi&type=",
+
+                "author": ["Abubakar Mahmoud Gumi"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Abubakar Mahmoud Gumi in Hausa language."
+              }
+            },
+            {
+              "Hindi": {
+                "icon_link": "/images/flags/Flag_of_India.svg.png",
+                "sub_title": "फ़ारूक़ ख़ान & अहमद",
+                "download_link": "https://tanzil.net/trans/?transID=hi.farooq&type=",
+
+                "author": ["Muhammad Farooq Khan", "Muhammad Ahmed"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Muhammad Farooq Khan and Muhammad Ahmed in Hindi language."
+              }
+            },
+            {
+              "Hindi": {
+                "icon_link": "/images/flags/Flag_of_India.svg.png",
+                "sub_title": "फ़ारूक़ ख़ान & नदवी",
+                "download_link": "https://tanzil.net/trans/?transID=hi.hindi&type=",
+
+                "author": ["Suhel Farooq Khan", "Saifur Rahman Nadwi"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Suhel Farooq Khan and Saifur Rahman Nadwi in Hindi language."
+              }
+            },
+            {
+              "Indonesian": {
+                "icon_link": "/images/flags/Flag_of_Indonesia.svg.png",
+                "sub_title": "Bahasa Indonesia",
+                "download_link": "https://tanzil.net/trans/?transID=id.indonesian&type=",
+
+                "author": ["Indonesian Ministry of Religious Affairs"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Indonesian Ministry of Religious Affairs in Indonesian language."
+              }
+            },
+            {
+              "Indonesian": {
+                "icon_link": "/images/flags/Flag_of_Indonesia.svg.png",
+                "sub_title": "Quraish Shihab",
+                "download_link": "https://tanzil.net/trans/?transID=id.muntakhab&type=",
+
+                "author": ["Muhammad Quraish Shihab et al. *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Muhammad Quraish Shihab et al. * in Indonesian language."
+              }
+            },
+            {
+              "Indonesian": {
+                "icon_link": "/images/flags/Flag_of_Indonesia.svg.png",
+                "sub_title": "Tafsir Jalalayn",
+                "download_link": "https://tanzil.net/trans/?transID=id.jalalayn&type=",
+
+                "author": [
+                  "Jalal ad-Din al-Mahalli",
+                  "Jalal ad-Din as-Suyuti *"
+                ],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti * in Indonesian language."
+              }
+            },
+            {
+              "Italian": {
+                "icon_link": "/images/flags/Flag_of_Italy.svg",
+                "sub_title": "Piccardo",
+                "download_link": "https://tanzil.net/trans/?transID=it.piccardo&type=",
+
+                "author": ["Hamza Roberto Piccardo *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Hamza Roberto Piccardo * in Italian language."
+              }
+            },
+            {
+              "Japanese": {
+                "icon_link": "/images/flags/Flag_of_Japan.svg.png",
+                "sub_title": "Japanese",
+                "download_link": "https://tanzil.net/trans/?transID=ja.japanese&type=",
+
+                "author": ["Unknown"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Unknown in Japanese language."
+              }
+            },
+            {
+              "Korean": {
+                "icon_link": "/images/flags/Flag-South-Korea.jpg",
+                "sub_title": "Korean",
+                "download_link": "https://tanzil.net/trans/?transID=ko.korean&type=",
+
+                "author": ["Unknown"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Unknown in Korean language."
+              }
+            },
+            {
+              "Kurdish": {
+                "icon_link": "/images/flags/Flag_of_Kurdistan.svg.png",
+                "sub_title": "ته‌فسیری ئاسان",
+                "download_link": "https://tanzil.net/trans/?transID=ku.asan&type=",
+
+                "author": ["Burhan Muhammad-Amin"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Burhan Muhammad-Amin in Kurdish language."
+              }
+            },
+            {
+              "Malay": {
+                "icon_link": "/images/flags/Flag_of_Malaysia.svg",
+                "sub_title": "Basmeih",
+                "download_link": "https://tanzil.net/trans/?transID=ms.basmeih&type=",
+
+                "author": ["Abdullah Muhammad Basmeih"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Abdullah Muhammad Basmeih in Malay language."
+              }
+            },
+            {
+              "Malayalam": {
+                "icon_link": "/images/flags/Flag_of_India.svg.png",
+                "sub_title": "അബ്ദുല്‍ ഹമീദ് & പറപ്പൂര്‍",
+                "download_link": "https://tanzil.net/trans/?transID=ml.abdulhameed&type=",
+
+                "author": [
+                  "Cheriyamundam Abdul Hameed",
+                  "Kunhi Mohammed Parappoor"
+                ],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Cheriyamundam Abdul Hameed and Kunhi Mohammed Parappoor in Malayalam language."
+              }
+            },
+            {
+              "Malayalam": {
+                "icon_link": "/images/flags/Flag_of_India.svg.png",
+                "sub_title": "കാരകുന്ന് & എളയാവൂര്",
+                "download_link": "https://tanzil.net/trans/?transID=ml.karakunnu&type=",
+
+                "author": ["Muhammad Karakunnu", "Vanidas Elayavoor *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Muhammad Karakunnu and Vanidas Elayavoor * in Malayalam language."
+              }
+            },
+            {
+              "Norwegian": {
+                "icon_link": "/images/flags/Flag_of_Norway.svg.png",
+                "sub_title": "Einar Berg",
+                "download_link": "https://tanzil.net/trans/?transID=no.berg&type=",
+
+                "author": ["Einar Berg"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Einar Berg in Norwegian language."
+              }
+            },
+            {
+              "Pashto": {
+                "icon_link": "/images/flags/Flag_of_Afghanistan.svg.png",
+                "sub_title": "عبدالولي",
+                "download_link": "https://tanzil.net/trans/?transID=ps.abdulwali&type=",
+
+                "author": ["Abdulwali Khan"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Abdulwali Khan in Pashto language."
+              }
+            },
+            {
+              "Persian": {
+                "icon_link": "/images/flags/Flag-Iran.jpg",
+                "sub_title": "انصاریان",
+                "download_link": "https://tanzil.net/trans/?transID=fa.ansarian&type=",
+
+                "author": ["Hussain Ansarian *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Hussain Ansarian * in Persian language."
+              }
+            },
+            {
+              "Persian": {
+                "icon_link": "/images/flags/Flag-Iran.jpg",
+                "sub_title": "آیتی",
+                "download_link": "https://tanzil.net/trans/?transID=fa.ayati&type=",
+
+                "author": ["AbdolMohammad Ayati *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by AbdolMohammad Ayati * in Persian language."
+              }
+            },
+            {
+              "Persian": {
+                "icon_link": "/images/flags/Flag-Iran.jpg",
+                "sub_title": "بهرام‌پور",
+                "download_link": "https://tanzil.net/trans/?transID=fa.bahrampour&type=",
+
+                "author": ["Abolfazl Bahrampour *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Abolfazl Bahrampour * in Persian language."
+              }
+            },
+            {
+              "Persian": {
+                "icon_link": "/images/flags/Flag-Iran.jpg",
+                "sub_title": "قرائتی",
+                "download_link": "https://tanzil.net/trans/?transID=fa.gharaati&type=",
+
+                "author": ["Mohsen Gharaati *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Mohsen Gharaati * in Persian language."
+              }
+            },
+            {
+              "Persian": {
+                "icon_link": "/images/flags/Flag-Iran.jpg",
+                "sub_title": "الهی قمشه‌ای",
+                "download_link": "https://tanzil.net/trans/?transID=fa.ghomshei&type=",
+
+                "author": ["Mahdi Elahi Ghomshei *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Mahdi Elahi Ghomshei * in Persian language."
+              }
+            },
+            {
+              "Persian": {
+                "icon_link": "/images/flags/Flag-Iran.jpg",
+                "sub_title": "خرمدل",
+                "download_link": "https://tanzil.net/trans/?transID=fa.khorramdel&type=",
+
+                "author": ["Mostafa Khorramdel *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Mostafa Khorramdel * in Persian language."
+              }
+            },
+            {
+              "Persian": {
+                "icon_link": "/images/flags/Flag-Iran.jpg",
+                "sub_title": "خرمشاهی",
+                "download_link": "https://tanzil.net/trans/?transID=fa.khorramshahi&type=",
+
+                "author": ["Baha'oddin Khorramshahi *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Baha'oddin Khorramshahi * in Persian language."
+              }
+            },
+            {
+              "Persian": {
+                "icon_link": "/images/flags/Flag-Iran.jpg",
+                "sub_title": "صادقی تهرانی",
+                "download_link": "https://tanzil.net/trans/?transID=fa.sadeqi&type=",
+
+                "author": ["Mohammad Sadeqi Tehrani *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Mohammad Sadeqi Tehrani * in Persian language."
+              }
+            },
+            {
+              "Persian": {
+                "icon_link": "/images/flags/Flag-Iran.jpg",
+                "sub_title": "صفوی",
+                "download_link": "https://tanzil.net/trans/?transID=fa.safavi&type=",
+
+                "author": ["Sayyed Mohammad Reza Safavi *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Sayyed Mohammad Reza Safavi * in Persian language."
+              }
+            },
+            {
+              "Persian": {
+                "icon_link": "/images/flags/Flag-Iran.jpg",
+                "sub_title": "فولادوند",
+                "download_link": "https://tanzil.net/trans/?transID=fa.fooladvand&type=",
+
+                "author": ["Mohammad Mahdi Fooladvand *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Mohammad Mahdi Fooladvand * in Persian language."
+              }
+            },
+            {
+              "Persian": {
+                "icon_link": "/images/flags/Flag-Iran.jpg",
+                "sub_title": "مجتبوی",
+                "download_link": "https://tanzil.net/trans/?transID=fa.mojtabavi&type=",
+
+                "author": ["Sayyed Jalaloddin Mojtabavi *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Sayyed Jalaloddin Mojtabavi * in Persian language."
+              }
+            },
+            {
+              "Persian": {
+                "icon_link": "/images/flags/Flag-Iran.jpg",
+                "sub_title": "معزی",
+                "download_link": "https://tanzil.net/trans/?transID=fa.moezzi&type=",
+
+                "author": ["Mohammad Kazem Moezzi"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Mohammad Kazem Moezzi in Persian language."
+              }
+            },
+            {
+              "Persian": {
+                "icon_link": "/images/flags/Flag-Iran.jpg",
+                "sub_title": "مکارم شیرازی",
+                "download_link": "https://tanzil.net/trans/?transID=fa.makarem&type=",
+
+                "author": ["Naser Makarem Shirazi *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Naser Makarem Shirazi * in Persian language."
+              }
+            },
+            {
+              "Polish": {
+                "icon_link": "/images/flags/Flag_of_Poland.svg.png",
+                "sub_title": "Bielawskiego",
+                "download_link": "https://tanzil.net/trans/?transID=pl.bielawskiego&type=",
+
+                "author": ["Józefa Bielawskiego"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Józefa Bielawskiego in Polish language."
+              }
+            },
+            {
+              "Portuguese": {
+                "icon_link": "/images/flags/Flag_of_Portugal.svg.png",
+                "sub_title": "El-Hayek",
+                "download_link": "https://tanzil.net/trans/?transID=pt.elhayek&type=",
+
+                "author": ["Samir El-Hayek"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Samir El-Hayek in Portuguese language."
+              }
+            },
+            {
+              "Romanian": {
+                "icon_link": "/images/flags/Flag_of_Romania.svg.png",
+                "sub_title": "Grigore",
+                "download_link": "https://tanzil.net/trans/?transID=ro.grigore&type=",
+
+                "author": ["George Grigore"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by George Grigore in Romanian language."
+              }
+            },
+            {
+              "Russian": {
+                "icon_link": "/images/flags/Flag_of_Russia.svg.png",
+                "sub_title": "Абу Адель",
+                "download_link": "https://tanzil.net/trans/?transID=ru.abuadel&type=",
+
+                "author": ["Abu Adel"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Abu Adel in Russian language."
+              }
+            },
+            {
+              "Russian": {
+                "icon_link": "/images/flags/Flag_of_Russia.svg.png",
+                "sub_title": "Аль-Мунтахаб",
+                "download_link": "https://tanzil.net/trans/?transID=ru.muntahab&type=",
+
+                "author": ["Ministry of Awqaf, Egypt"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Ministry of Awqaf, Egypt in Russian language."
+              }
+            },
+            {
+              "Russian": {
+                "icon_link": "/images/flags/Flag_of_Russia.svg.png",
+                "sub_title": "Крачковский",
+                "download_link": "https://tanzil.net/trans/?transID=ru.krachkovsky&type=",
+
+                "author": ["Ignaty Yulianovich Krachkovsky *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Ignaty Yulianovich Krachkovsky * in Russian language."
+              }
+            },
+            {
+              "Russian": {
+                "icon_link": "/images/flags/Flag_of_Russia.svg.png",
+                "sub_title": "Кулиев",
+                "download_link": "https://tanzil.net/trans/?transID=ru.kuliev&type=",
+
+                "author": ["Elmir Kuliev"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Elmir Kuliev in Russian language."
+              }
+            },
+            {
+              "Russian": {
+                "icon_link": "/images/flags/Flag_of_Russia.svg.png",
+                "sub_title": "Кулиев + ас-Саади",
+                "download_link": "https://tanzil.net/trans/?transID=ru.kuliev-alsaadi&type=",
+
+                "author": [
+                  "Elmir Kuliev (with Abd ar-Rahman as-Saadi's commentaries)"
+                ],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Elmir Kuliev (with Abd ar-Rahman as-Saadi's commentaries) in Russian language."
+              }
+            },
+            {
+              "Russian": {
+                "icon_link": "/images/flags/Flag_of_Russia.svg.png",
+                "sub_title": "Османов",
+                "download_link": "https://tanzil.net/trans/?transID=ru.osmanov&type=",
+
+                "author": ["Magomed-Nuri Osmanovich Osmanov"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Magomed-Nuri Osmanovich Osmanov in Russian language."
+              }
+            },
+            {
+              "Russian": {
+                "icon_link": "/images/flags/Flag_of_Russia.svg.png",
+                "sub_title": "Порохова",
+                "download_link": "https://tanzil.net/trans/?transID=ru.porokhova&type=",
+
+                "author": ["V. Porokhova"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by V. Porokhova in Russian language."
+              }
+            },
+            {
+              "Russian": {
+                "icon_link": "/images/flags/Flag_of_Russia.svg.png",
+                "sub_title": "Саблуков",
+                "download_link": "https://tanzil.net/trans/?transID=ru.sablukov&type=",
+
+                "author": ["Gordy Semyonovich Sablukov"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Gordy Semyonovich Sablukov in Russian language."
+              }
+            },
+            {
+              "Sindhi": {
+                "icon_link": "/images/flags/Flag_of_Sindh.svg.png",
+                "sub_title": "امروٽي",
+                "download_link": "https://tanzil.net/trans/?transID=sd.amroti&type=",
+
+                "author": ["Taj Mehmood Amroti"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Taj Mehmood Amroti in Sindhi language."
+              }
+            },
+            {
+              "Somali": {
+                "icon_link": "/images/flags/Flag_of_Somalia.svg.png",
+                "sub_title": "Abduh",
+                "download_link": "https://tanzil.net/trans/?transID=so.abduh&type=",
+
+                "author": ["Mahmud Muhammad Abduh"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Mahmud Muhammad Abduh in Somali language."
+              }
+            },
+            {
+              "Spanish": {
+                "icon_link": "/images/flags/Bandera_de_España.svg.png",
+                "sub_title": "Bornez",
+                "download_link": "https://tanzil.net/trans/?transID=es.bornez&type=",
+
+                "author": ["Raúl González Bórnez *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Raúl González Bórnez * in Spanish language."
+              }
+            },
+            {
+              "Spanish": {
+                "icon_link": "/images/flags/Bandera_de_España.svg.png",
+                "sub_title": "Cortes",
+                "download_link": "https://tanzil.net/trans/?transID=es.cortes&type=",
+
+                "author": ["Julio Cortes"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Julio Cortes in Spanish language."
+              }
+            },
+            {
+              "Spanish": {
+                "icon_link": "/images/flags/Bandera_de_España.svg.png",
+                "sub_title": "Garcia",
+                "download_link": "https://tanzil.net/trans/?transID=es.garcia&type=",
+
+                "author": ["Muhammad Isa García *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Muhammad Isa García * in Spanish language."
+              }
+            },
+            {
+              "Swahili": {
+                "icon_link": "/images/flags/Flag-Kenya.jpg",
+                "sub_title": "Al-Barwani",
+                "download_link": "https://tanzil.net/trans/?transID=sw.barwani&type=",
+
+                "author": ["Ali Muhsin Al-Barwani"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Ali Muhsin Al-Barwani in Swahili language."
+              }
+            },
+            {
+              "Swedish": {
+                "icon_link": "/images/flags/Flag_of_Sweden.svg.png",
+                "sub_title": "Bernström",
+                "download_link": "https://tanzil.net/trans/?transID=sv.bernstrom&type=",
+
+                "author": ["Knut Bernström"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Knut Bernström in Swedish language."
+              }
+            },
+            {
+              "Tajik": {
+                "icon_link": "/images/flags/Flag_of_Tajikistan.svg.png",
+                "sub_title": "Оятӣ",
+                "download_link": "https://tanzil.net/trans/?transID=tg.ayati&type=",
+
+                "author": ["AbdolMohammad Ayati"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by AbdolMohammad Ayati in Tajik language."
+              }
+            },
+            {
+              "Tamil": {
+                "icon_link": "/images/flags/Flag_of_India.svg.png",
+                "sub_title": "ஜான் டிரஸ்ட்",
+                "download_link": "https://tanzil.net/trans/?transID=ta.tamil&type=",
+
+                "author": ["Jan Turst Foundation"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Jan Turst Foundation in Tamil language."
+              }
+            },
+            {
+              "Tatar": {
+                "icon_link": "/images/flags/Flag_of_Tatarstan.svg.png",
+                "sub_title": "Yakub Ibn Nugman",
+                "download_link": "https://tanzil.net/trans/?transID=tt.nugman&type=",
+
+                "author": ["Yakub Ibn Nugman"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Yakub Ibn Nugman in Tatar language."
+              }
+            },
+            {
+              "Thai": {
+                "icon_link": "/images/flags/Flag_of_Thailand.svg.png",
+                "sub_title": "ภาษาไทย",
+                "download_link": "https://tanzil.net/trans/?transID=th.thai&type=",
+
+                "author": ["King Fahad Quran Complex"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by King Fahad Quran Complex in Thai language."
+              }
+            },
+            {
+              "Turkish": {
+                "icon_link": "/images/flags/Flag_of_Turkey.svg.png",
+                "sub_title": "Abdulbakî Gölpınarlı",
+                "download_link": "https://tanzil.net/trans/?transID=tr.golpinarli&type=",
+
+                "author": ["Abdulbaki Golpinarli"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Abdulbaki Golpinarli in Turkish language."
+              }
+            },
+            {
+              "Turkish": {
+                "icon_link": "/images/flags/Flag_of_Turkey.svg.png",
+                "sub_title": "Alİ Bulaç",
+                "download_link": "https://tanzil.net/trans/?transID=tr.bulac&type=",
+
+                "author": ["Alİ Bulaç"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Alİ Bulaç in Turkish language."
+              }
+            },
+            {
+              "Turkish": {
+                "icon_link": "/images/flags/Flag_of_Turkey.svg.png",
+                "sub_title": "Çeviriyazı",
+                "download_link": "https://tanzil.net/trans/?transID=tr.transliteration&type=",
+
+                "author": ["Muhammet Abay"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Muhammet Abay in Turkish language."
+              }
+            },
+            {
+              "Turkish": {
+                "icon_link": "/images/flags/Flag_of_Turkey.svg.png",
+                "sub_title": "Diyanet İşleri",
+                "download_link": "https://tanzil.net/trans/?transID=tr.diyanet&type=",
+
+                "author": ["Diyanet Isleri"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Diyanet Isleri in Turkish language."
+              }
+            },
+            {
+              "Turkish": {
+                "icon_link": "/images/flags/Flag_of_Turkey.svg.png",
+                "sub_title": "Diyanet Vakfı",
+                "download_link": "https://tanzil.net/trans/?transID=tr.vakfi&type=",
+
+                "author": ["Diyanet Vakfi"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Diyanet Vakfi in Turkish language."
+              }
+            },
+            {
+              "Turkish": {
+                "icon_link": "/images/flags/Flag_of_Turkey.svg.png",
+                "sub_title": "Edip Yüksel",
+                "download_link": "https://tanzil.net/trans/?transID=tr.yuksel&type=",
+
+                "author": ["Edip Yüksel"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Edip Yüksel in Turkish language."
+              }
+            },
+            {
+              "Turkish": {
+                "icon_link": "/images/flags/Flag_of_Turkey.svg.png",
+                "sub_title": "Elmalılı Hamdi Yazır",
+                "download_link": "https://tanzil.net/trans/?transID=tr.yazir&type=",
+
+                "author": ["Elmalili Hamdi Yazir"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Elmalili Hamdi Yazir in Turkish language."
+              }
+            },
+            {
+              "Turkish": {
+                "icon_link": "/images/flags/Flag_of_Turkey.svg.png",
+                "sub_title": "Öztürk",
+                "download_link": "https://tanzil.net/trans/?transID=tr.ozturk&type=",
+
+                "author": ["Yasar Nuri Ozturk *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Yasar Nuri Ozturk * in Turkish language."
+              }
+            },
+            {
+              "Turkish": {
+                "icon_link": "/images/flags/Flag_of_Turkey.svg.png",
+                "sub_title": "Suat Yıldırım",
+                "download_link": "https://tanzil.net/trans/?transID=tr.yildirim&type=",
+
+                "author": ["Suat Yildirim"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Suat Yildirim in Turkish language."
+              }
+            },
+            {
+              "Turkish": {
+                "icon_link": "/images/flags/Flag_of_Turkey.svg.png",
+                "sub_title": "Süleyman Ateş",
+                "download_link": "https://tanzil.net/trans/?transID=tr.ates&type=",
+
+                "author": ["Suleyman Ates"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Suleyman Ates in Turkish language."
+              }
+            },
+            {
+              "Urdu": {
+                "icon_link": "/images/flags/flag-symbolism-Pakistan-design-Islamic.jpg",
+                "sub_title": "ابوالاعلی مودودی",
+                "download_link": "https://tanzil.net/trans/?transID=ur.maududi&type=",
+
+                "author": ["Abul A'ala Maududi *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Abul A'ala Maududi * in Urdu language."
+              }
+            },
+            {
+              "Urdu": {
+                "icon_link": "/images/flags/flag-symbolism-Pakistan-design-Islamic.jpg",
+                "sub_title": "احمد رضا خان",
+                "download_link": "https://tanzil.net/trans/?transID=ur.kanzuliman&type=",
+
+                "author": ["Ahmed Raza Khan *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Ahmed Raza Khan * in Urdu language."
+              }
+            },
+            {
+              "Urdu": {
+                "icon_link": "/images/flags/flag-symbolism-Pakistan-design-Islamic.jpg",
+                "sub_title": "احمد علی",
+                "download_link": "https://tanzil.net/trans/?transID=ur.ahmedali&type=",
+
+                "author": ["Ahmed Ali *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Ahmed Ali * in Urdu language."
+              }
+            },
+            {
+              "Urdu": {
+                "icon_link": "/images/flags/flag-symbolism-Pakistan-design-Islamic.jpg",
+                "sub_title": "جالندہری",
+                "download_link": "https://tanzil.net/trans/?transID=ur.jalandhry&type=",
+
+                "author": ["Fateh Muhammad Jalandhry"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Fateh Muhammad Jalandhry in Urdu language."
+              }
+            },
+            {
+              "Urdu": {
+                "icon_link": "/images/flags/flag-symbolism-Pakistan-design-Islamic.jpg",
+                "sub_title": "طاہر القادری",
+                "download_link": "https://tanzil.net/trans/?transID=ur.qadri&type=",
+
+                "author": ["Tahir ul Qadri *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Tahir ul Qadri * in Urdu language."
+              }
+            },
+            {
+              "Urdu": {
+                "icon_link": "/images/flags/flag-symbolism-Pakistan-design-Islamic.jpg",
+                "sub_title": "علامہ جوادی",
+                "download_link": "https://tanzil.net/trans/?transID=ur.jawadi&type=",
+
+                "author": ["Syed Zeeshan Haider Jawadi"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Syed Zeeshan Haider Jawadi in Urdu language."
+              }
+            },
+            {
+              "Urdu": {
+                "icon_link": "/images/flags/flag-symbolism-Pakistan-design-Islamic.jpg",
+                "sub_title": "محمد جوناگڑھی",
+                "download_link": "https://tanzil.net/trans/?transID=ur.junagarhi&type=",
+
+                "author": ["Muhammad Junagarhi *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Muhammad Junagarhi * in Urdu language."
+              }
+            },
+            {
+              "Urdu": {
+                "icon_link": "/images/flags/flag-symbolism-Pakistan-design-Islamic.jpg",
+                "sub_title": "محمد حسین نجفی",
+                "download_link": "https://tanzil.net/trans/?transID=ur.najafi&type=",
+
+                "author": ["Muhammad Hussain Najafi  *"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Muhammad Hussain Najafi  * in Urdu language."
+              }
+            },
+            {
+              "Uyghur": {
+                "icon_link": "/images/flags/Kokbayraq_flag.svg.png",
+                "sub_title": "محمد صالح",
+                "download_link": "https://tanzil.net/trans/?transID=ug.saleh&type=",
+
+                "author": ["Muhammad Saleh"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Muhammad Saleh in Uyghur language."
+              }
+            },
+            {
+              "Uzbek": {
+                "icon_link": "/images/flags/Flag_of_Uzbekistan.svg",
+                "sub_title": "Мухаммад Содик",
+                "download_link": "https://tanzil.net/trans/?transID=uz.sodik&type=",
+
+                "author": ["Muhammad Sodik Muhammad Yusuf"],
+                "includes": ["Full Qur'an"],
+                "description": "This is the translation of the entire Qur'an by Muhammad Sodik Muhammad Yusuf in Uzbek language."
+              }
+            }
+          ]
+        }
+      },
+      {
+        "reciters": {
+          "icon_link": "https://www.pngfind.com/pngs/m/658-6588781_audio-y-bocinas-ajc-logo-transparent-hd-png.png",
+          "description": "Get majority of the Quran reciters audio and generated links JSON files",
+          "resources": [
+            {
+              "reciters": [
+                {
+                  "Alafasy": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://download.quranicaudio.com/verses/Alafasy/mp3/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Sudais": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://download.quranicaudio.com/verses/Sudais/mp3/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "AbdulBaset": {
+                    "sub_title": "reciter ( Murattal )",
+                    "generatable_link_template": "https://download.quranicaudio.com/verses/AbdulBaset/Murattal/mp3/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "AbdulBaset": {
+                    "sub_title": "reciter ( Mujawwad )",
+                    "generatable_link_template": "https://download.quranicaudio.com/verses/AbdulBaset/Mujawwad/mp3/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Husary": {
+                    "sub_title": "reciter ( Murattal )",
+                    "generatable_link_template": "https://download.quranicaudio.com/verses/Husary/Murattal/ogg/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Husary": {
+                    "sub_title": "reciter ( Mujawwad )",
+                    "generatable_link_template": "https://download.quranicaudio.com/verses/Husary/Mujawwad/ogg/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Minshawy": {
+                    "sub_title": "reciter ( Murattal )",
+                    "generatable_link_template": "https://everyayah.com/data/Minshawy_Murattal_128kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Shuraym": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://download.quranicaudio.com/verses/Shuraym/mp3/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Jibreel": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://download.quranicaudio.com/verses/Jibreel/mp3/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Tunaiji": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://download.quranicaudio.com/verses/Tunaiji/mp3/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Yasser_Ad-Dussary": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Ibrahim_Al-Dosary": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/warsh/warsh_ibrahim_aldosary_128kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Yassin_Al-Jazaery": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/warsh/warsh_yassin_al_jazaery_64kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Abdullaah_3awwaad_Al-Juhaynee": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Abdullaah_3awwaad_Al-Juhaynee_128kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Abdullah_Matroud": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Abdullah_Matroud_128kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Ahmed_Ibn_Ali_Al_Ajamy": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/ahmed_ibn_ali_al_ajamy_128kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Ahmed_Neana": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Ahmed_Neana_128kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Akram_Al_Alaqimy": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Akram_AlAlaqimy_128kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Ali_Jaber": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Ali_Jaber_64kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Ali_Hajjaj_AlSuesy": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Ali_Hajjaj_AlSuesy_128kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Ayman_Sowaid": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Ayman_Sowaid_64kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Fares_Abbad": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Fares_Abbad_64kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Hudhaify": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Hudhaify_128kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Ibrahim_Akhdar": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Ibrahim_Akhdar_32kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Karim_Mansoori": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Karim_Mansoori_40kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Khalid_Abdullah_al-Qahtanee": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Khaalid_Abdullaah_al-Qahtaanee_192kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Maher_Al_Muaiqly": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/MaherAlMuaiqly128kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Mahmoud_Ali_Al-Banna": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/mahmoud_ali_al_banna_32kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Mohammad_al_Tablaway": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Mohammad_al_Tablaway_128kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Muhammad_AbdulKareem": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Muhammad_AbdulKareem_128kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Muhammad_Ayyoub": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Muhammad_Ayyoub_128kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Muhsin_Al_Qasim": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Muhsin_Al_Qasim_192kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Nabil_Rifa3i": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Nabil_Rifa3i_48kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Nasser_Alqatami": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Nasser_Alqatami_128kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Parhizgar": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Parhizgar_48kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Sahl_Yassin": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Sahl_Yassin_128kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Salaah_AbdulRahman_Bukhatir": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Salaah_AbdulRahman_Bukhatir_128kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Salah_Al_Budair": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Salah_Al_Budair_128kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                },
+                {
+                  "Yaser_Salamah": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Yaser_Salamah_128kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": ""
+                  }
+                }
+              ]
+            },
+            {
+              "reciters_with_mistakes": [
+                {
+                  "Abdullah_Basfar": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Abdullah_Basfar_192kbps/",
+                    "includes": [
+                      "Mistakes",
+                      "Full Qur'an",
+                      "JSON Files",
+                      "Audio Urls"
+                    ],
+                    "description": "",
+                    "mistakes": [
+                      { "surah_number": 11, "verse_number": 82 },
+                      { "surah_number": 61, "verse_number": 11 },
+                      { "surah_number": 61, "verse_number": 12 },
+                      { "surah_number": 61, "verse_number": 13 },
+                      { "surah_number": 61, "verse_number": 14 }
+                    ]
+                  }
+                },
+                {
+                  "Abu_Bakr_Ash-Shaatree": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/",
+                    "includes": [
+                      "Mistakes",
+                      "Full Qur'an",
+                      "JSON Files",
+                      "Audio Urls"
+                    ],
+                    "description": "",
+                    "mistakes": [{ "surah_number": 22, "verse_number": 52 }]
+                  }
+                },
+                {
+                  "Aziz_Alili": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/aziz_alili_128kbps/",
+                    "includes": [
+                      "Mistakes",
+                      "Full Qur'an",
+                      "JSON Files",
+                      "Audio Urls"
+                    ],
+                    "description": "",
+                    "mistakes": [
+                      { "surah_number": 23, "verse_number": 51 },
+                      { "surah_number": 28, "verse_number": 25 }
+                    ]
+                  }
+                },
+                {
+                  "Ghamadi": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Ghamadi_40kbps/",
+                    "includes": [
+                      "Mistakes",
+                      "Full Qur'an",
+                      "JSON Files",
+                      "Audio Urls"
+                    ],
+                    "description": "",
+                    "mistakes": [
+                      { "surah_number": 4, "verse_number": 94 },
+                      { "surah_number": 16, "verse_number": 29 },
+                      { "surah_number": 59, "verse_number": 24 }
+                    ]
+                  }
+                },
+                {
+                  "Hani_Rifai": {
+                    "sub_title": "reciter",
+                    "generatable_link_template": "https://everyayah.com/data/Hani_Rifai_192kbps/",
+                    "includes": [
+                      "Mistakes",
+                      "Full Qur'an",
+                      "JSON Files",
+                      "Audio Urls"
+                    ],
+                    "description": "",
+                    "mistakes": [
+                      { "surah_number": 24, "verse_number": 58 },
+                      { "surah_number": 31, "verse_number": 27 }
+                    ]
+                  }
+                },
+                {
+                  "Minshawy": {
+                    "sub_title": "reciter ( Mujawwad )",
+                    "generatable_link_template": "https://everyayah.com/data/Minshawy_Mujawwad_192kbps/",
+                    "includes": [
+                      "Mistakes",
+                      "Full Qur'an",
+                      "JSON Files",
+                      "Audio Urls"
+                    ],
+                    "description": "The Mistakes are only in his Mujawwad Recitation and are not in the Murattal Recitation.",
+                    "mistakes": [
+                      { "surah_number": 4, "verse_number": 8 },
+                      { "surah_number": 7, "verse_number": 63 },
+                      { "surah_number": 7, "verse_number": 163 },
+                      { "surah_number": 20, "verse_number": 90 },
+                      { "surah_number": 27, "verse_number": 70 },
+                      { "surah_number": 32, "verse_number": 24 },
+                      { "surah_number": 39, "verse_number": 57 },
+                      { "surah_number": 40, "verse_number": 62 },
+                      { "surah_number": 42, "verse_number": 26 }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "translations": {
+          "icon_link": "https://cdn.icon-icons.com/icons2/1507/PNG/512/applicationsaudio_103765.png",
+          "description": "Get most of the available Qur'an Audio Translations in different languages.",
+          "resources": [
+            {
+              "translations": [
+                {
+                  "Sahih_International": {
+                    "sub_title": "English Translation",
+                    "generatable_link_template": "https://everyayah.com/data/English/Sahih_Intnl_Ibrahim_Walk_192kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": "This is the English Translation of the Qur'an."
+                  }
+                },
+                {
+                  "Farhat_Hashmi": {
+                    "sub_title": "Word by Word Urdu Translation",
+                    "generatable_link_template": "https://everyayah.com/data/translations/urdu_farhat_hashmi/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": "This is the Word by Word Arabic Quran + Urdu Translation. Which means the translator will read the arabic word first and then will tell you its translation in urdu."
+                  }
+                },
+                {
+                  "Shamshad_Ali_Khan": {
+                    "sub_title": "Urdu Translation",
+                    "generatable_link_template": "https://everyayah.com/data/translations/urdu_shamshad_ali_khan_46kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": "This is the Urdu Translation of the Qur'an."
+                  }
+                },
+                {
+                  "Makarem": {
+                    "sub_title": "Persian Translation",
+                    "generatable_link_template": "https://everyayah.com/data/translations/Makarem_Kabiri_16Kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": "This is the Persian Translation of the Qur'an by Naser Makarem Shirazi."
+                  }
+                },
+                {
+                  "Besim_Korkut": {
+                    "sub_title": "Bosnian Translation",
+                    "generatable_link_template": "https://everyayah.com/data/translations/besim_korkut_ajet_po_ajet/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": "This is the Bosnian Translation of the Qur'an by Besim Korkut."
+                  }
+                },
+                {
+                  "Fooladvand": {
+                    "sub_title": "Persian Translation",
+                    "generatable_link_template": "https://everyayah.com/data/translations/Fooladvand_Hedayatfar_40Kbps/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": "This is the Persian  Translation of the Qur'an by Fooladvand."
+                  }
+                },
+                {
+                  "Balayev": {
+                    "sub_title": "AzerBaijani Translation",
+                    "generatable_link_template": "https://everyayah.com/data/translations/azerbaijani/balayev/",
+                    "includes": ["Full Qur'an", "JSON Files", "Audio Urls"],
+                    "description": "This is the AzerBaijani Translation of the Qur'an by Balayev."
+                  }
+                }
+              ]
+            },
+            {
+              "translations_with_mistakes": [
+                {
+                  "Sahih_International_with_recitation": {
+                    "sub_title": "Quran Recitation + English Translation",
+                    "generatable_link_template": "https://everyayah.com/data/MultiLanguage/Basfar_Walk_192kbps/",
+                    "includes": [
+                      "Mistakes",
+                      "Full Qur'an",
+                      "JSON Files",
+                      "Audio Urls"
+                    ],
+                    "description": "The Mistakes are only in the Arabic Quran Recitation and not in the English Quran Translation.",
+                    "mistakes": [
+                      { "surah_number": 19, "verse_number": 75 },
+                      { "surah_number": 61, "verse_number": 6 },
+                      { "surah_number": 61, "verse_number": 9 }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "meta_data": {
+          "icon_link": "https://cdn-icons-png.flaticon.com/512/3095/3095886.png",
+          "description": "Get all types of Quranic Scripts. For Example- Uthmani Script , Indo-pak Script etc.",
+          "resources": [
+            {
+              "surah": {
+                "download_link": "https://www.mediafire.com/file/tmmyela18j5lev9/surah_meta_data.json/file",
+                "author": "",
+                "sub_title": "Surah Meta Data",
+                "includes": ["Surah meta_data", "JSON Files"],
+                "description": "This is the meta data for all the surahs."
+              }
+            },
+            {
+              "sajda": {
+                "download_link": "https://www.mediafire.com/file/iorljljrsiqdkkm/sjda_meta_data.json/file",
+                "author": "",
+                "sub_title": "Sajda Meta Data",
+                "includes": ["Sajda meta_data", "JSON Files"],
+                "description": "This is the meta data for all the sajdas."
+              }
+            },
+            {
+              "ruku": {
+                "download_link": "https://www.mediafire.com/file/42tx91nst71dejz/ruku_meta_data.json/file",
+                "author": "",
+                "sub_title": "Ruku Meta Data",
+                "includes": ["Ruku meta_data", "JSON Files"],
+                "description": "This is the meta data for all the rukus."
+              }
+            },
+            {
+              "pages": {
+                "download_link": "https://www.mediafire.com/file/cihn9brzn2zm19s/pages_meta_data.json/file",
+                "author": "",
+                "sub_title": "Pages Meta Data",
+                "includes": ["Pages meta_data", "JSON Files"],
+                "description": "This is the meta data for all the pages."
+              }
+            },
+            {
+              "manzil": {
+                "download_link": "https://www.mediafire.com/file/ovzsgfz5ltr8o1s/manzil_meta_data.json/file",
+                "author": "",
+                "sub_title": "Manzil Meta Data",
+                "includes": ["Mazil meta_data", "JSON Files"],
+                "description": "This is the meta data for all the manzils."
+              }
+            },
+            {
+              "juz": {
+                "download_link": "https://www.mediafire.com/file/yw2wko0sitgvkx2/juz_meta_data.json/file",
+                "author": "",
+                "sub_title": "Juz Meta Data",
+                "includes": ["Juz meta_data", "JSON Files"],
+                "description": "This is the meta data for all the Juz."
+              }
+            },
+            {
+              "hisb quarter": {
+                "download_link": "https://www.mediafire.com/file/vlv1immj97htb6c/hisbQuarter_meta_data.json/file",
+                "author": "",
+                "sub_title": "Hisb Qurater Meta Data",
+                "includes": ["Hisb Quarter meta_data", "JSON Files"],
+                "description": "This is the meta data for all the Hisb Quarters."
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+
+  {
+    "hadiths": [
+      {
+        "database": {
+          "icon_link": "https://toppng.com/uploads/preview/database-database-icon-11563207079binxarjjyp.png",
+          "description": "Get full hadith Database file and extract the data in any format you want.",
+          "resources": [
+            {
+              "Hadith Database": {
+                "sub_title": "by Sunnah.com",
+                "download_link": "https://sunnah.com/HadithTable.sql.gz",
+                "author": "",
+                "includes": ["Full Database", "SQL File", "English", "Arabic"],
+                "description": "This is the Hadith Database Sql file from sunnah.com containing 16 books of hadiths. This database contains Arabic hadiths with only English translations."
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+]

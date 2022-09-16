@@ -1,0 +1,30 @@
+.bg {
+  /* background-color: red; */
+  max-width: 120rem;
+  padding: 0 3rem;
+  margin: 0 auto;
+}
+
+.page_title {
+  margin-top: 3rem;
+  display: inline-block;
+  clip-path: polygon(13% 0, 100% 0%, 85% 100%, 0% 100%);
+  background-color: #3061aa;
+  color: white;
+  border: 1px solid black;
+  padding: 1rem 5rem;
+  font-size: 2.1rem;
+}
+
+.intro {
+  margin-top: 3rem;
+  font-weight: 500;
+  font-size: 1.5rem;
+}
+
+.quote {
+  margin-top: 3rem;
+  font-weight: 500;
+  font-size: 1.5rem;
+  font-style: italic;
+}

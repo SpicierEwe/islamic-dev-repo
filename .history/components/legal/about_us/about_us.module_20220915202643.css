@@ -1,0 +1,10 @@
+.bg {
+  background-color: red;
+}
+
+.page_title {
+  display: block;
+  background-color: aqua;
+  padding: 10rem;
+  font-size: 1rem;
+}

@@ -1,0 +1,13 @@
+.bg {
+  /* background-color: red; */
+  max-width: 120rem;
+  padding: 0 0.3rem;
+}
+
+.page_title {
+  display: inline-block;
+
+  background-color: aqua;
+  padding: 10rem;
+  font-size: 1.5rem;
+}

@@ -1,0 +1,28 @@
+import styles from "./about_us.module.css";
+import Image from "next/image";
+
+export default function AboutUs(props) {
+  return (
+    <div className={styles.bg}>
+      <h1 className={styles.page_title}>About Us</h1>
+      <div className={styles.container}>
+        <p className={styles.intro}>This website is Designed and Developed</p>
+        <blockquote className={styles.quote}>
+          <Image
+            src={"/images/quote_icon.svg"}
+            height="50%"
+            width="100%"
+            alt="quote_icon"
+          ></Image>
+          <h3>by aBeliever for the Believers</h3>
+          <Image
+            src={"/images/quote_icon.svg"}
+            height="50%"
+            width="100%"
+            alt="quote_icon"
+          ></Image>
+        </blockquote>
+      </div>
+    </div>
+  );
+}
