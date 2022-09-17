@@ -7,19 +7,7 @@ import Link from "next/link";
 export default function AboutUs(props) {
   return (
     <div className={styles.bg}>
-      <div className={styles.header}>
-        <Link href={"/"}>
-          <div className={styles.logo}>
-            <Image
-              src={"/images/logo/logo.svg"}
-              width="31%"
-              height="31%"
-              alt="logo_img"
-            ></Image>
-          </div>
-        </Link>
-        <h1 className={styles.page_title}>About Us</h1>
-      </div>
+      <h1 className={styles.page_title}>About Us</h1>
       <div className={styles.container_development}>
         <div>
           <p className={styles.intro}>This website is Designed and Developed</p>
@@ -39,11 +27,11 @@ export default function AboutUs(props) {
         <p className={styles.summary}>
           The main purpose of developing this website was to provide islamic
           developers access to the most authentic islamic data. The struggles of
-          the developer in finding the authentic data for his projects is the
-          main reason behind the development of this website. Ofcourse you can
-          find a lot of resources on the internet but only some of them are
-          authentic or are lacking optimization. The data provided in this
-          website is collected from the most authentic sources. So
+          the developer of this website in finding the authentic data for his
+          projects is the main reason behind the development of this website.
+          Ofcourse you can find a lot of resources on the internet but only some
+          of them are authentic or are lacking optimization. The data provided
+          in this website is collected from the most authentic sources. So
           Alahmadullilah you don&apos;t have to worry about the authenticity of
           the data. But we all are humans and we can make mistakes. So if you
           find any mistake in the data please let us know. We will be very

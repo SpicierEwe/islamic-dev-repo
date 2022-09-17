@@ -12,8 +12,8 @@ export default function AboutUs(props) {
           <div className={styles.logo}>
             <Image
               src={"/images/logo/logo.svg"}
-              width="31%"
-              height="31%"
+              width="35%"
+              height="35%"
               alt="logo_img"
             ></Image>
           </div>

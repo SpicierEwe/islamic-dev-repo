@@ -8,16 +8,14 @@ export default function AboutUs(props) {
   return (
     <div className={styles.bg}>
       <div className={styles.header}>
-        <Link href={"/"}>
-          <div className={styles.logo}>
-            <Image
-              src={"/images/logo/logo.svg"}
-              width="31%"
-              height="31%"
-              alt="logo_img"
-            ></Image>
-          </div>
-        </Link>
+        <div className={styles.logo}>
+          <Image
+            src={"/images/logo/logo.svg"}
+            height="45%"
+            width="100%"
+            alt="Company_logo"
+          ></Image>
+        </div>
         <h1 className={styles.page_title}>About Us</h1>
       </div>
       <div className={styles.container_development}>
