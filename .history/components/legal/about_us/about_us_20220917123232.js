@@ -2,7 +2,7 @@ import styles from "./about_us.module.css";
 import Image from "next/image";
 import { ImQuotesLeft, ImQuotesRight } from "react-icons/im";
 import { FaHeartbeat } from "react-icons/fa";
-import { SiHandshakeProtocol, SiHandshake } from "react-icons/si";
+import { SiHandshakeProtocol } from "react-icons/si";
 import Link from "next/link";
 
 export default function AboutUs(props) {
@@ -33,7 +33,7 @@ export default function AboutUs(props) {
           </blockquote>
         </div>
         <div className={styles.heart_icon}>
-          <SiHandshake size="9rem" color="f4000e" />
+          <SiHandshakeProtocol size="9rem" color="f4000e" />
         </div>
       </div>
       <div className={styles.container_development}>
