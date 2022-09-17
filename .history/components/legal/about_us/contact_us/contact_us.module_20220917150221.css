@@ -1,0 +1,12 @@
+.main_container {
+  max-width: 120rem;
+  display: flex;
+  top: 50%;
+  left: 50;
+  transform: translate(-50%, -50%);
+}
+
+.pattern_container {
+  display: block;
+  height: 100%;
+}

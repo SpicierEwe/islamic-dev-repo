@@ -1,0 +1,4 @@
+.main_container {
+  max-width: 120rem;
+  display: flex;
+}

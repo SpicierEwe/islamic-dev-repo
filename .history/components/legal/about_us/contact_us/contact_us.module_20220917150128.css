@@ -1,0 +1,9 @@
+.main_container {
+  max-width: 120rem;
+  display: flex;
+}
+
+.pattern_container {
+  display: block;
+  /* overflow: hidden; */
+}

@@ -1,0 +1,15 @@
+.notification_container {
+  position: fixed;
+  top: 5rem;
+  right: 0;
+  background-color: #22bf4f;
+  padding: 2.1rem;
+  margin-right: 1rem;
+}
+
+.notification_text {
+  color: #fff;
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin: 0;
+}

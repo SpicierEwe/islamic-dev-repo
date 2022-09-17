@@ -1,0 +1,11 @@
+.main_container {
+  max-width: 120rem;
+  display: flex;
+  justify-content: center;
+  height 100vh
+}
+
+.pattern_container {
+  display: block;
+  height: 100%;
+}
