@@ -26,7 +26,7 @@ export default function HomePageNav(props) {
               <Link href={"/legal/about_us"}>
                 <li>About</li>
               </Link>
-              <li>Contact Us</li>
+              <li>Data source</li>
             </ul>
           </div>
           {props.children}
