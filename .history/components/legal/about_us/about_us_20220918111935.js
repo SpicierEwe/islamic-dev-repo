@@ -41,16 +41,16 @@ export default function AboutUs(props) {
           The main purpose of developing this website is to provide Islamic
           Developers access to the most authentic Islamic Data at a single place
           and in the most accessible form. The struggles of the Islamic
-          Developers in finding the authentic data for their projects is the
-          main reason behind the development of this website. <br></br>Of
+          Developers is in finding the authentic data for their projects, and it
+          is the main reason behind the development of this website. <br></br>Of
           course, you can find a lot of resources on the internet today, but
-          only few of them are authentic and complete and/or are lacking
-          optimization (unable to be implemented/rendered perfectly). The data
-          provided in this website is collected from the most authentic sources.
-          So, Alahmadullilah! you don&apos;t have to worry about the
-          authenticity of the data. But we all are humans and we can make
-          mistakes. So if you find any mistake in the data please let us know.
-          We will be very thankful to you. Jazak&apos;Allahu khair!
+          only some of them are authentic and complete and/or are lacking
+          optimization (unable to implement perfectly). The data provided in
+          this website is collected from the most authentic sources. So,
+          Alahmadullilah! you don&apos;t have to worry about the authenticity of
+          the data. But we all are humans and we can make mistakes. So if you
+          find any mistake in the data please let us know. We will be very
+          thankful to you. Jazak&apos;Allahu khair!
         </p>
       </div>
 
@@ -94,10 +94,10 @@ export default function AboutUs(props) {
             </ul>
           </div>
           <p className={styles.resourcer_description}>
-            Our Brother, Ayman Siddiqui has helped us alot - Alhamdulillah - by
-            sharing the Authentic Islamic data with us. And we pray to Allah ﷻ
-            that May He ﷻ accept Brother Ayman&apos;s efforts and reward him
-            with the best of rewards in this world and also in the Hereafter.
+            Our Brother Ayman Siddiqui helped us alot alahmdulillah by sharing
+            the authentic islamic data with us. And we pray to Allah ( swt )
+            that he may accept his efforts and reward him with the best of
+            rewards.
           </p>
         </div>
       </div>

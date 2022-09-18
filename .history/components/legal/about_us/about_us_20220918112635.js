@@ -45,12 +45,12 @@ export default function AboutUs(props) {
           main reason behind the development of this website. <br></br>Of
           course, you can find a lot of resources on the internet today, but
           only few of them are authentic and complete and/or are lacking
-          optimization (unable to be implemented/rendered perfectly). The data
-          provided in this website is collected from the most authentic sources.
-          So, Alahmadullilah! you don&apos;t have to worry about the
-          authenticity of the data. But we all are humans and we can make
-          mistakes. So if you find any mistake in the data please let us know.
-          We will be very thankful to you. Jazak&apos;Allahu khair!
+          optimization (unable to be implement perfectly). The data provided in
+          this website is collected from the most authentic sources. So,
+          Alahmadullilah! you don&apos;t have to worry about the authenticity of
+          the data. But we all are humans and we can make mistakes. So if you
+          find any mistake in the data please let us know. We will be very
+          thankful to you. Jazak&apos;Allahu khair!
         </p>
       </div>
 
