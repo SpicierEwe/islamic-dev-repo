@@ -53,7 +53,6 @@
   column-gap: 1rem;
   text-align: center;
   align-items: center;
-  column-gap: 2rem;
   font-weight: 500;
 }
 
@@ -74,7 +73,7 @@
   border: 1px solid #3061aa;
 }
 
-.mobile_nav_items {
+.mobile_nav_item {
   display: none;
 }
 
@@ -127,7 +126,7 @@
   cursor: pointer;
 }
 /* *********************  546px ********************* */
-@media (max-width: 34.125rem) {
+@media (min-width: 34.125rem) {
   .desktop_nav_items {
     display: none;
   }
