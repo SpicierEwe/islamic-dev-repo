@@ -89,42 +89,12 @@
   background-color: white;
   z-index: 2;
   cursor: pointer;
-
-  transition: all 0.5s ease-in-out;
 }
 
 .overlay_items {
-  display: flex;
-  flex-direction: column;
-  row-gap: 3rem;
-  font-size: 2.1rem;
-  font-weight: bold;
-  margin-left: 3rem;
-  margin-top: 7rem;
-  display: inline-block;
+  font-size: large;
 }
 
-.overlay_items > li {
-  background-color: #3061aa;
-  margin-left: 3rem;
-  margin-top: 3rem;
-  padding: 1rem 2rem;
-  color: white;
-  cursor: pointer;
-  box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.2);
-}
-
-.close_menu {
-  position: absolute;
-  top: 2rem;
-  right: 3rem;
-  font-size: 2rem;
-  color: white;
-  background-color: #3061aa;
-  border-radius: 50%;
-  padding: 1rem 1.5rem;
-  cursor: pointer;
-}
 /* *********************  546px ********************* */
 @media (max-width: 34.125rem) {
   .desktop_nav_items {

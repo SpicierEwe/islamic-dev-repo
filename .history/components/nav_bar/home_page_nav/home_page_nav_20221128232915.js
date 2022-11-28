@@ -6,8 +6,6 @@ import { HiMenuAlt3 } from "react-icons/hi";
 import styles from "./home_page_nav.module.css";
 
 export default function HomePageNav(props) {
-  // resposible to show and hide the nav bar
-  const [showMenu, setShowMenu] = React.useState(false);
   const nav_items_list = [
     {
       title: "Change Log",
@@ -39,6 +37,7 @@ export default function HomePageNav(props) {
               </div>
             </Link>
             {/* <p>IDV</p> */}
+
             <div className={styles.desktop_nav_items}>
               <ul className={styles.ul_container}>
                 <Link href={"/change_log"}>
@@ -54,42 +53,23 @@ export default function HomePageNav(props) {
             </div>
             {/* these are the items of mobile nav bar */}
             <div className={styles.mobile_nav_items}>
-              <HiMenuAlt3
-                onClick={(e) => {
-                  setShowMenu(true);
-                }}
-                size={34}
-              ></HiMenuAlt3>
+              <HiMenuAlt3 onClick={(e) => {}} size={34}></HiMenuAlt3>
             </div>
 
-            {showMenu && (
-              <div>
-                <div className={styles.overlay}>
-                  <div className={styles.overlay_content}>
-                    {/* this is the close menu button */}
-                    <div
-                      className={styles.close_menu}
-                      onClick={(e) => {
-                        setShowMenu(false);
-                      }}
-                    >
-                      &times;
-                    </div>
-                    <ul className={styles.overlay_items}>
-                      {nav_items_list.map((item, index) => {
-                        return (
-                          <Link key={index} href={item.link}>
-                            <li>{item.title}</li>
-                          </Link>
-                        );
-                      })}
-                    </ul>
-                  </div>
-                </div>
+            <div className={styles.overlay}>
+              <div className={styles.overlay_content}>
+                <ul className={styles.overlay_items}>
+                  {nav_items_list.map((item, index) => {
+                    return (
+                      <Link key={index} href={"/change_log"}>
+                        <li>Change Log</li>
+                      </Link>
+                    );
+                  })}
+                </ul>
               </div>
-            )}
+            </div>
           </div>
-
           {props.children}
         </div>
       </nav>

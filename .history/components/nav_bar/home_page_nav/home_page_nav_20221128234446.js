@@ -56,7 +56,7 @@ export default function HomePageNav(props) {
             <div className={styles.mobile_nav_items}>
               <HiMenuAlt3
                 onClick={(e) => {
-                  setShowMenu(true);
+                  setShowMenu(!showMenu);
                 }}
                 size={34}
               ></HiMenuAlt3>
@@ -70,7 +70,7 @@ export default function HomePageNav(props) {
                     <div
                       className={styles.close_menu}
                       onClick={(e) => {
-                        setShowMenu(false);
+                        setShowMenu(!showMenu);
                       }}
                     >
                       &times;

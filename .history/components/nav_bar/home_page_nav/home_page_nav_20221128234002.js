@@ -56,25 +56,18 @@ export default function HomePageNav(props) {
             <div className={styles.mobile_nav_items}>
               <HiMenuAlt3
                 onClick={(e) => {
-                  setShowMenu(true);
+                  setShowMenu(!showMenu);
                 }}
                 size={34}
               ></HiMenuAlt3>
             </div>
 
-            {showMenu && (
+            {
               <div>
+                {}
                 <div className={styles.overlay}>
                   <div className={styles.overlay_content}>
-                    {/* this is the close menu button */}
-                    <div
-                      className={styles.close_menu}
-                      onClick={(e) => {
-                        setShowMenu(false);
-                      }}
-                    >
-                      &times;
-                    </div>
+                    <div className={styles.close_menu}>&times;</div>
                     <ul className={styles.overlay_items}>
                       {nav_items_list.map((item, index) => {
                         return (
@@ -86,8 +79,9 @@ export default function HomePageNav(props) {
                     </ul>
                   </div>
                 </div>
+                ) }
               </div>
-            )}
+            }
           </div>
 
           {props.children}
