@@ -1,0 +1,11 @@
+.container {
+  max-width: 120rem;
+  margin: 0 auto;
+}
+
+.title {
+  padding-top: 5rerem;
+  color: red;
+  text-align: center;
+  font-size: 3rem;
+}

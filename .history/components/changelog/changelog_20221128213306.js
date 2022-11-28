@@ -1,0 +1,15 @@
+import React from "react";
+import styles from "./changelog.module.css";
+
+export default function ChangeLogComponent() {
+  return (
+    <div>
+      <div className={styles.container}>
+        <h1 className={styles.title}>
+          Change-Log<span className={styles.blinker}>|</span>
+        </h1>
+        <p>Here is the change log</p>
+      </div>
+    </div>
+  );
+}

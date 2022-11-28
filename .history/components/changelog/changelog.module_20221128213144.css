@@ -1,0 +1,21 @@
+.container {
+  max-width: 120rem;
+  margin: 0 auto;
+}
+
+.title {
+  padding: 3.5rem 0;
+  color: red;
+  text-align: center;
+  font-size: 3rem;
+}
+
+.blinker {
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes .blinker {
+  50% {
+    opacity: 0;
+  }
+}
