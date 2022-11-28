@@ -36,7 +36,7 @@
             },
 
             {
-              "Indo-Pak v9.6.1": {
+              "Indo-Pak v9.6": {
                 "sub_title": "Madinah script ABA",
                 "download_link": "https://www.mediafire.com/file/st44pby7wkgjyyq/Madinah_Script_Ayah_by_Ayah_v9.6.1.zip/file",
                 "author": "",
@@ -50,7 +50,7 @@
               }
             },
             {
-              "Indo-Pak v9.6.1": {
+              "Indo-Pak v9.6": {
                 "sub_title": "Madinah script WBW",
                 "download_link": "https://www.mediafire.com/file/gh0i5bv42r9zbcs/Madinah_Script_Word_by_Word_v9.6.1.zip/file",
                 "author": "",
@@ -64,7 +64,7 @@
               }
             },
             {
-              "Indo-Pak v9.6.1": {
+              "Indo-Pak v9.6": {
                 "sub_title": "Hanafi script ABA",
                 "download_link": "https://www.mediafire.com/file/pp82edjs4wmatro/Hanafi_Script_Ayah_by_Ayah_v9.6.1.zip/file",
                 "author": "",
@@ -78,7 +78,7 @@
               }
             },
             {
-              "Indo-Pak v9.6.1": {
+              "Indo-Pak v9.6": {
                 "sub_title": "Hanafi script WBW",
                 "download_link": "https://www.mediafire.com/file/c3dox2162zq4qki/Hanafi_Script_Word_by_Word_v9.6.1.zip/file",
                 "author": "",
@@ -137,9 +137,9 @@
               }
             },
             {
-              "Indo-Pak Font v4.2.2": {
+              "Indo-Pak Font v4.2.1": {
                 "sub_title": "without Waqf - Lazim margin indicator",
-                "download_link": "https://www.mediafire.com/file/xplgnyi6q71kwbx/Indo-pak_font_v4.2.2.zip/file",
+                "download_link": "https://www.mediafire.com/file/nzkaaynhliegjw3/indo-pak_font_v4.2.1.zip/file",
                 "author": ["Al Qalam", "Gandhara", "KFGQPC", "Ayman Siddiqui"],
                 "includes": [
                   ".ttf",
@@ -153,9 +153,9 @@
               }
             },
             {
-              "Indo-Pak Font v4.2.2": {
+              "Indo-Pak Font v4.2.1": {
                 "sub_title": "with Waqf - Lazim margin indicator",
-                "download_link": "https://www.mediafire.com/file/5h7pzlbdm4ycgcl/Indo-pak_font_v4.2.2_WL.zip/file",
+                "download_link": "https://www.mediafire.com/file/pzg1hspu1xegx3i/indo-pak_font_v4.2.1-WL.zip/file",
                 "author": ["Al Qalam", "Gandhara", "KFGQPC", "Ayman Siddiqui"],
                 "includes": [
                   "Waqf - Lazim",
